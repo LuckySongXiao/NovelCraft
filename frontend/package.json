@@ -31,8 +31,6 @@
     "slate-history": "^0.93.0"
   },
   "devDependencies": {
-    "electron": "^23.1.1",
-    "electron-builder": "^23.6.0",
     "concurrently": "^7.6.0",
     "wait-on": "^7.0.1",
     "cross-env": "^7.0.3",
