@@ -175,7 +175,7 @@ const Dashboard = () => {
 
       {/* 统计卡片 */}
       <Row gutter={[16, 16]} className="stats-grid">
-        <Col xs={24} sm={12} lg={6}>
+        <Col xs={24}>
           <Card>
             <Statistic
               title="项目总数"
@@ -185,7 +185,7 @@ const Dashboard = () => {
             />
           </Card>
         </Col>
-        <Col xs={24} sm={12} lg={6}>
+        <Col xs={24}>
           <Card>
             <Statistic
               title="人物总数"
@@ -195,7 +195,7 @@ const Dashboard = () => {
             />
           </Card>
         </Col>
-        <Col xs={24} sm={12} lg={6}>
+        <Col xs={24}>
           <Card>
             <Statistic
               title="卷宗总数"
@@ -205,7 +205,7 @@ const Dashboard = () => {
             />
           </Card>
         </Col>
-        <Col xs={24} sm={12} lg={6}>
+        <Col xs={24}>
           <Card>
             <Statistic
               title="总字数"
