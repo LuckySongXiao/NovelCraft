@@ -1,0 +1,2 @@
+# NovelCraft
+NovelCraft Control
