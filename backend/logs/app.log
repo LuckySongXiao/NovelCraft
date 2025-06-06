@@ -1,0 +1,1763 @@
+2025-05-27 17:40:48,595 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-27 17:40:48,801 - app.main - INFO - 数据库初始化完成
+2025-05-27 17:40:48,804 - app.main - INFO - 数据表创建完成
+2025-05-27 17:40:48,805 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-27 18:03:48,359 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-27 18:03:48,363 - app.main - INFO - 数据库初始化完成
+2025-05-27 18:03:48,366 - app.main - INFO - 数据表创建完成
+2025-05-27 18:03:48,366 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-27 18:19:01,988 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-27 18:19:01,993 - app.main - INFO - 数据库初始化完成
+2025-05-27 18:19:01,996 - app.main - INFO - 数据表创建完成
+2025-05-27 18:19:01,997 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-27 21:41:51,270 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-27 21:41:51,277 - app.main - INFO - 数据库初始化完成
+2025-05-27 21:41:51,281 - app.main - INFO - 数据表创建完成
+2025-05-27 21:41:51,281 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-27 22:07:07,880 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-27 22:07:07,885 - app.main - INFO - 数据库初始化完成
+2025-05-27 22:07:07,888 - app.main - INFO - 数据表创建完成
+2025-05-27 22:07:07,888 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-27 22:40:59,715 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-27 22:40:59,720 - app.main - INFO - 数据库初始化完成
+2025-05-27 22:40:59,723 - app.main - INFO - 数据表创建完成
+2025-05-27 22:40:59,723 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-27 22:53:49,666 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-27 22:53:49,671 - app.main - INFO - 数据库初始化完成
+2025-05-27 22:53:49,674 - app.main - INFO - 数据表创建完成
+2025-05-27 22:53:49,674 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-27 23:29:00,829 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-27 23:29:00,834 - app.main - INFO - 数据库初始化完成
+2025-05-27 23:29:00,837 - app.main - INFO - 数据表创建完成
+2025-05-27 23:29:00,837 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-27 23:31:09,177 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-27 23:42:28,998 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-27 23:42:29,293 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-27 23:42:30,803 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-27 23:42:31,333 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-27 23:42:32,572 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-27 23:42:33,096 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-27 23:42:36,592 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-27 23:42:40,894 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-27 23:42:42,434 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-27 23:42:48,015 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-27 23:42:52,830 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-27 23:43:19,988 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-27 23:44:37,435 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-27 23:44:39,161 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-27 23:44:39,165 - app.main - INFO - 数据库初始化完成
+2025-05-27 23:44:39,168 - app.main - INFO - 数据表创建完成
+2025-05-27 23:44:39,168 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-27 23:45:04,098 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-27 23:45:05,727 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-27 23:45:05,733 - app.main - INFO - 数据库初始化完成
+2025-05-27 23:45:05,736 - app.main - INFO - 数据表创建完成
+2025-05-27 23:45:05,736 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-27 23:45:33,210 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-27 23:45:34,752 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-27 23:45:34,757 - app.main - INFO - 数据库初始化完成
+2025-05-27 23:45:34,760 - app.main - INFO - 数据表创建完成
+2025-05-27 23:45:34,760 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-27 23:51:47,331 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-27 23:51:49,598 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-27 23:51:49,599 - app.services.ai_service - ERROR - 获取Ollama模型列表失败: Server error '502 Bad Gateway' for url 'http://localhost:11434/api/tags'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/502
+2025-05-27 23:57:50,734 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-27 23:57:50,735 - app.services.ai_service - ERROR - 获取Ollama模型列表失败: Server error '502 Bad Gateway' for url 'http://localhost:11434/api/tags'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/502
+2025-05-27 23:57:51,266 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-27 23:57:51,267 - app.services.ai_service - ERROR - 获取Ollama模型列表失败: Server error '502 Bad Gateway' for url 'http://localhost:11434/api/tags'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/502
+2025-05-27 23:57:51,484 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-27 23:57:52,008 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 00:01:24,561 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 00:01:24,562 - app.services.ai_service - ERROR - 获取Ollama模型列表失败: Server error '502 Bad Gateway' for url 'http://localhost:11434/api/tags'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/502
+2025-05-28 00:01:36,029 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 00:01:36,284 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 00:01:49,863 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 00:01:50,424 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 00:01:50,437 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 00:01:50,437 - app.services.ai_service - ERROR - 获取Ollama模型列表失败: Server error '502 Bad Gateway' for url 'http://localhost:11434/api/tags'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/502
+2025-05-28 00:01:51,197 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 00:01:51,197 - app.services.ai_service - ERROR - 获取Ollama模型列表失败: Server error '502 Bad Gateway' for url 'http://localhost:11434/api/tags'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/502
+2025-05-28 00:01:53,750 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 00:01:53,751 - app.services.ai_service - ERROR - 获取Ollama模型列表失败: Server error '502 Bad Gateway' for url 'http://localhost:11434/api/tags'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/502
+2025-05-28 00:01:57,206 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 00:01:57,207 - app.services.ai_service - ERROR - 获取Ollama模型列表失败: Server error '502 Bad Gateway' for url 'http://localhost:11434/api/tags'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/502
+2025-05-28 00:02:08,887 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 00:02:08,888 - app.services.ai_service - ERROR - 获取Ollama模型列表失败: Server error '502 Bad Gateway' for url 'http://localhost:11434/api/tags'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/502
+2025-05-28 00:02:11,248 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 00:02:13,692 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 00:02:14,224 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 00:02:14,225 - app.services.ai_service - ERROR - 获取Ollama模型列表失败: Server error '502 Bad Gateway' for url 'http://localhost:11434/api/tags'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/502
+2025-05-28 00:03:05,327 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 00:03:05,851 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 00:03:08,850 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 00:03:09,417 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 00:03:13,513 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 00:03:14,080 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 00:03:14,322 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 00:03:14,322 - app.services.ai_service - ERROR - 获取Ollama模型列表失败: Server error '502 Bad Gateway' for url 'http://localhost:11434/api/tags'
+For more information check: https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/502
+2025-05-28 00:07:29,818 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-28 00:07:31,485 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-28 00:07:31,490 - app.main - INFO - 数据库初始化完成
+2025-05-28 00:07:31,493 - app.main - INFO - 数据表创建完成
+2025-05-28 00:07:31,493 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-28 00:07:59,294 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-28 00:08:00,829 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-28 00:08:00,835 - app.main - INFO - 数据库初始化完成
+2025-05-28 00:08:00,838 - app.main - INFO - 数据表创建完成
+2025-05-28 00:08:00,838 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-28 09:25:09,230 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-28 09:25:09,235 - app.main - INFO - 数据库初始化完成
+2025-05-28 09:25:09,238 - app.main - INFO - 数据表创建完成
+2025-05-28 09:25:09,238 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-28 09:25:33,877 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 09:25:33,878 - app.services.ai_service - WARNING - Ollama服务未启动或配置错误 (502 Bad Gateway)
+2025-05-28 09:25:35,874 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 09:25:37,604 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 09:25:37,605 - app.services.ai_service - WARNING - Ollama服务未启动或配置错误 (502 Bad Gateway)
+2025-05-28 09:43:23,133 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-28 09:43:23,138 - app.main - INFO - 数据库初始化完成
+2025-05-28 09:43:23,140 - app.main - INFO - 数据表创建完成
+2025-05-28 09:43:23,140 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-28 09:43:43,870 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 09:43:47,102 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 09:43:47,137 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 09:43:47,138 - app.services.ai_service - WARNING - Ollama服务未启动或配置错误 (502 Bad Gateway)
+2025-05-28 09:43:49,161 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 09:43:49,161 - app.services.ai_service - WARNING - Ollama服务未启动或配置错误 (502 Bad Gateway)
+2025-05-28 09:43:56,669 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 09:44:00,180 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 09:44:00,180 - app.services.ai_service - WARNING - Ollama服务未启动或配置错误 (502 Bad Gateway)
+2025-05-28 09:44:00,181 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 09:52:08,870 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-28 09:52:08,875 - app.main - INFO - 数据库初始化完成
+2025-05-28 09:52:08,877 - app.main - INFO - 数据表创建完成
+2025-05-28 09:52:08,878 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-28 09:52:29,288 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 09:52:31,003 - app.api.endpoints.ai_assistant - INFO - 开始获取Ollama模型列表...
+2025-05-28 09:52:32,989 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 09:52:32,994 - app.services.ai_service - WARNING - Ollama服务未启动或配置错误 (502 Bad Gateway)
+2025-05-28 09:52:32,996 - app.api.endpoints.ai_assistant - INFO - 获取到 0 个模型
+2025-05-28 09:52:32,997 - app.api.endpoints.ai_assistant - WARNING - 未检测到Ollama模型
+2025-05-28 09:52:32,998 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 09:52:33,340 - app.api.endpoints.ai_assistant - INFO - 开始获取Ollama模型列表...
+2025-05-28 09:52:35,182 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 09:52:35,182 - app.services.ai_service - WARNING - Ollama服务未启动或配置错误 (502 Bad Gateway)
+2025-05-28 09:52:35,183 - app.api.endpoints.ai_assistant - INFO - 获取到 0 个模型
+2025-05-28 09:52:35,183 - app.api.endpoints.ai_assistant - WARNING - 未检测到Ollama模型
+2025-05-28 10:26:28,057 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-28 10:26:28,062 - app.main - INFO - 数据库初始化完成
+2025-05-28 10:26:28,066 - app.main - INFO - 数据表创建完成
+2025-05-28 10:26:28,066 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-28 11:27:11,685 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-28 11:27:11,690 - app.main - INFO - 数据库初始化完成
+2025-05-28 11:27:11,692 - app.main - INFO - 数据表创建完成
+2025-05-28 11:27:11,692 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-28 11:27:27,869 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 11:27:29,579 - app.api.endpoints.ai_assistant - INFO - 开始获取Ollama模型列表...
+2025-05-28 11:27:29,579 - app.api.endpoints.ai_assistant - INFO - 使用Ollama配置: base_url=http://localhost:11434, model=mollysama/rwkv-7-g1:0.4B
+2025-05-28 11:27:31,190 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 11:27:31,191 - httpx - INFO - HTTP Request: GET http://localhost:11434/ "HTTP/1.1 502 Bad Gateway"
+2025-05-28 11:27:31,196 - app.services.ai_service - INFO - Ollama服务健康检查: 502
+2025-05-28 11:27:31,495 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 11:27:31,496 - app.services.ai_service - INFO - Ollama API响应状态码: 502
+2025-05-28 11:27:31,496 - app.services.ai_service - INFO - Ollama API响应头: {'connection': 'close', 'content-length': '0'}
+2025-05-28 11:27:31,496 - app.services.ai_service - ERROR - Ollama服务返回502错误，可能服务未正确启动
+2025-05-28 11:27:31,496 - app.api.endpoints.ai_assistant - INFO - 获取到 0 个模型
+2025-05-28 11:27:31,496 - app.api.endpoints.ai_assistant - WARNING - 未检测到Ollama模型
+2025-05-28 11:27:31,496 - app.api.endpoints.ai_assistant - INFO - 尝试使用命令行方式获取Ollama模型...
+2025-05-28 11:27:31,584 - app.api.endpoints.ai_assistant - INFO - 解析模型: mollysama/rwkv-7-g1:0.4B (501 MB)
+2025-05-28 11:27:31,585 - app.api.endpoints.ai_assistant - INFO - 解析模型: qwen2.5:14b (9.0 GB)
+2025-05-28 11:27:31,585 - app.api.endpoints.ai_assistant - INFO - 解析模型: phi4:latest (9.1 GB)
+2025-05-28 11:27:31,585 - app.api.endpoints.ai_assistant - INFO - 解析模型: qwen:7b (4.5 GB)
+2025-05-28 11:27:31,586 - app.api.endpoints.ai_assistant - INFO - 解析模型: deepseek-r1:8b (4.9 GB)
+2025-05-28 11:27:31,587 - app.api.endpoints.ai_assistant - INFO - 通过命令行获取到 5 个模型
+2025-05-28 11:27:31,898 - app.api.endpoints.ai_assistant - INFO - 开始获取Ollama模型列表...
+2025-05-28 11:27:31,898 - app.api.endpoints.ai_assistant - INFO - 使用Ollama配置: base_url=http://localhost:11434, model=mollysama/rwkv-7-g1:0.4B
+2025-05-28 11:27:33,807 - httpx - INFO - HTTP Request: GET http://localhost:11434/ "HTTP/1.1 502 Bad Gateway"
+2025-05-28 11:27:33,807 - app.services.ai_service - INFO - Ollama服务健康检查: 502
+2025-05-28 11:27:34,093 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 11:27:34,094 - app.services.ai_service - INFO - Ollama API响应状态码: 502
+2025-05-28 11:27:34,094 - app.services.ai_service - INFO - Ollama API响应头: {'connection': 'close', 'content-length': '0'}
+2025-05-28 11:27:34,095 - app.services.ai_service - ERROR - Ollama服务返回502错误，可能服务未正确启动
+2025-05-28 11:27:34,095 - app.api.endpoints.ai_assistant - INFO - 获取到 0 个模型
+2025-05-28 11:27:34,095 - app.api.endpoints.ai_assistant - WARNING - 未检测到Ollama模型
+2025-05-28 11:27:34,095 - app.api.endpoints.ai_assistant - INFO - 尝试使用命令行方式获取Ollama模型...
+2025-05-28 11:27:34,179 - app.api.endpoints.ai_assistant - INFO - 解析模型: mollysama/rwkv-7-g1:0.4B (501 MB)
+2025-05-28 11:27:34,180 - app.api.endpoints.ai_assistant - INFO - 解析模型: qwen2.5:14b (9.0 GB)
+2025-05-28 11:27:34,180 - app.api.endpoints.ai_assistant - INFO - 解析模型: phi4:latest (9.1 GB)
+2025-05-28 11:27:34,180 - app.api.endpoints.ai_assistant - INFO - 解析模型: qwen:7b (4.5 GB)
+2025-05-28 11:27:34,180 - app.api.endpoints.ai_assistant - INFO - 解析模型: deepseek-r1:8b (4.9 GB)
+2025-05-28 11:27:34,180 - app.api.endpoints.ai_assistant - INFO - 通过命令行获取到 5 个模型
+2025-05-28 11:27:42,626 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 11:27:42,632 - app.api.endpoints.ai_assistant - INFO - 开始获取Ollama模型列表...
+2025-05-28 11:27:42,633 - app.api.endpoints.ai_assistant - INFO - 使用Ollama配置: base_url=http://localhost:11434, model=mollysama/rwkv-7-g1:0.4B
+2025-05-28 11:27:44,333 - httpx - INFO - HTTP Request: GET http://localhost:11434/ "HTTP/1.1 502 Bad Gateway"
+2025-05-28 11:27:44,334 - app.services.ai_service - INFO - Ollama服务健康检查: 502
+2025-05-28 11:27:44,756 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 11:27:44,757 - app.services.ai_service - INFO - Ollama API响应状态码: 502
+2025-05-28 11:27:44,757 - app.services.ai_service - INFO - Ollama API响应头: {'connection': 'close', 'content-length': '0'}
+2025-05-28 11:27:44,757 - app.services.ai_service - ERROR - Ollama服务返回502错误，可能服务未正确启动
+2025-05-28 11:27:44,758 - app.api.endpoints.ai_assistant - INFO - 获取到 0 个模型
+2025-05-28 11:27:44,758 - app.api.endpoints.ai_assistant - WARNING - 未检测到Ollama模型
+2025-05-28 11:27:44,758 - app.api.endpoints.ai_assistant - INFO - 尝试使用命令行方式获取Ollama模型...
+2025-05-28 11:27:44,846 - app.api.endpoints.ai_assistant - INFO - 解析模型: mollysama/rwkv-7-g1:0.4B (501 MB)
+2025-05-28 11:27:44,847 - app.api.endpoints.ai_assistant - INFO - 解析模型: qwen2.5:14b (9.0 GB)
+2025-05-28 11:27:44,847 - app.api.endpoints.ai_assistant - INFO - 解析模型: phi4:latest (9.1 GB)
+2025-05-28 11:27:44,847 - app.api.endpoints.ai_assistant - INFO - 解析模型: qwen:7b (4.5 GB)
+2025-05-28 11:27:44,847 - app.api.endpoints.ai_assistant - INFO - 解析模型: deepseek-r1:8b (4.9 GB)
+2025-05-28 11:27:44,847 - app.api.endpoints.ai_assistant - INFO - 通过命令行获取到 5 个模型
+2025-05-28 11:27:46,553 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 11:27:48,593 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 11:27:52,214 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 11:27:53,820 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 11:30:04,626 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 11:30:12,981 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 11:30:20,660 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 11:30:25,019 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 11:30:30,543 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 11:30:34,048 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 14:54:23,498 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-28 14:54:23,503 - app.main - INFO - 数据库初始化完成
+2025-05-28 14:54:23,506 - app.main - INFO - 数据表创建完成
+2025-05-28 14:54:23,506 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-28 14:59:34,283 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-28 14:59:34,295 - app.main - INFO - 数据库初始化完成
+2025-05-28 14:59:34,297 - app.main - INFO - 数据表创建完成
+2025-05-28 14:59:34,298 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-28 15:00:22,896 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-28 15:00:25,019 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-28 15:00:25,026 - app.main - INFO - 数据库初始化完成
+2025-05-28 15:00:25,029 - app.main - INFO - 数据表创建完成
+2025-05-28 15:00:25,029 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-28 15:01:26,486 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-28 15:01:26,492 - app.main - INFO - 数据库初始化完成
+2025-05-28 15:01:26,495 - app.main - INFO - 数据表创建完成
+2025-05-28 15:01:26,495 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-28 15:02:05,534 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 15:02:06,124 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 15:02:11,385 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 15:02:11,699 - app.api.endpoints.ai_assistant - INFO - 开始获取Ollama模型列表...
+2025-05-28 15:02:11,699 - app.api.endpoints.ai_assistant - INFO - 使用Ollama配置: base_url=http://localhost:11434, model=mollysama/rwkv-7-g1:0.4B
+2025-05-28 15:02:11,734 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 15:02:11,947 - httpx - INFO - HTTP Request: GET http://localhost:11434/ "HTTP/1.1 502 Bad Gateway"
+2025-05-28 15:02:11,948 - app.services.ai_service - INFO - Ollama服务健康检查: 502
+2025-05-28 15:02:12,144 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 15:02:12,147 - app.services.ai_service - INFO - Ollama API响应状态码: 502
+2025-05-28 15:02:12,147 - app.services.ai_service - INFO - Ollama API响应头: {'connection': 'close', 'content-length': '0'}
+2025-05-28 15:02:12,148 - app.services.ai_service - ERROR - Ollama服务返回502错误，可能服务未正确启动
+2025-05-28 15:02:12,150 - app.api.endpoints.ai_assistant - INFO - 获取到 0 个模型
+2025-05-28 15:02:12,150 - app.api.endpoints.ai_assistant - WARNING - 未检测到Ollama模型
+2025-05-28 15:02:12,150 - app.api.endpoints.ai_assistant - INFO - 尝试使用命令行方式获取Ollama模型...
+2025-05-28 15:02:12,244 - app.api.endpoints.ai_assistant - INFO - 解析模型: mollysama/rwkv-7-g1:0.4B (501 MB)
+2025-05-28 15:02:12,244 - app.api.endpoints.ai_assistant - INFO - 解析模型: qwen2.5:14b (9.0 GB)
+2025-05-28 15:02:12,244 - app.api.endpoints.ai_assistant - INFO - 解析模型: phi4:latest (9.1 GB)
+2025-05-28 15:02:12,244 - app.api.endpoints.ai_assistant - INFO - 解析模型: qwen:7b (4.5 GB)
+2025-05-28 15:02:12,245 - app.api.endpoints.ai_assistant - INFO - 解析模型: deepseek-r1:8b (4.9 GB)
+2025-05-28 15:02:12,245 - app.api.endpoints.ai_assistant - INFO - 通过命令行获取到 5 个模型
+2025-05-28 15:02:12,566 - app.api.endpoints.ai_assistant - INFO - 开始获取Ollama模型列表...
+2025-05-28 15:02:12,566 - app.api.endpoints.ai_assistant - INFO - 使用Ollama配置: base_url=http://localhost:11434, model=mollysama/rwkv-7-g1:0.4B
+2025-05-28 15:02:12,766 - httpx - INFO - HTTP Request: GET http://localhost:11434/ "HTTP/1.1 502 Bad Gateway"
+2025-05-28 15:02:12,767 - app.services.ai_service - INFO - Ollama服务健康检查: 502
+2025-05-28 15:02:12,989 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 15:02:12,989 - app.services.ai_service - INFO - Ollama API响应状态码: 502
+2025-05-28 15:02:12,990 - app.services.ai_service - INFO - Ollama API响应头: {'connection': 'close', 'content-length': '0'}
+2025-05-28 15:02:12,990 - app.services.ai_service - ERROR - Ollama服务返回502错误，可能服务未正确启动
+2025-05-28 15:02:12,990 - app.api.endpoints.ai_assistant - INFO - 获取到 0 个模型
+2025-05-28 15:02:12,990 - app.api.endpoints.ai_assistant - WARNING - 未检测到Ollama模型
+2025-05-28 15:02:12,990 - app.api.endpoints.ai_assistant - INFO - 尝试使用命令行方式获取Ollama模型...
+2025-05-28 15:02:13,076 - app.api.endpoints.ai_assistant - INFO - 解析模型: mollysama/rwkv-7-g1:0.4B (501 MB)
+2025-05-28 15:02:13,076 - app.api.endpoints.ai_assistant - INFO - 解析模型: qwen2.5:14b (9.0 GB)
+2025-05-28 15:02:13,076 - app.api.endpoints.ai_assistant - INFO - 解析模型: phi4:latest (9.1 GB)
+2025-05-28 15:02:13,076 - app.api.endpoints.ai_assistant - INFO - 解析模型: qwen:7b (4.5 GB)
+2025-05-28 15:02:13,077 - app.api.endpoints.ai_assistant - INFO - 解析模型: deepseek-r1:8b (4.9 GB)
+2025-05-28 15:02:13,077 - app.api.endpoints.ai_assistant - INFO - 通过命令行获取到 5 个模型
+2025-05-28 15:02:18,806 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 15:02:19,071 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 15:02:20,663 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 15:02:20,911 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 15:02:23,374 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 15:02:25,503 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 15:07:11,105 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-28 15:07:12,865 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-28 15:07:12,871 - app.main - INFO - 数据库初始化完成
+2025-05-28 15:07:12,874 - app.main - INFO - 数据表创建完成
+2025-05-28 15:07:12,874 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-28 15:07:35,361 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-28 15:07:37,012 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-28 15:07:37,017 - app.main - INFO - 数据库初始化完成
+2025-05-28 15:07:37,020 - app.main - INFO - 数据表创建完成
+2025-05-28 15:07:37,020 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-28 15:07:58,861 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-28 15:08:00,617 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-28 15:08:00,622 - app.main - INFO - 数据库初始化完成
+2025-05-28 15:08:00,624 - app.main - INFO - 数据表创建完成
+2025-05-28 15:08:00,625 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-28 15:08:17,800 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-28 15:08:19,407 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-28 15:08:19,413 - app.main - INFO - 数据库初始化完成
+2025-05-28 15:08:19,415 - app.main - INFO - 数据表创建完成
+2025-05-28 15:08:19,416 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-28 15:08:48,118 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-28 15:08:49,653 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-28 15:08:49,658 - app.main - INFO - 数据库初始化完成
+2025-05-28 15:08:49,660 - app.main - INFO - 数据表创建完成
+2025-05-28 15:08:49,660 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-28 15:09:10,631 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-28 15:09:12,175 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-28 15:09:12,180 - app.main - INFO - 数据库初始化完成
+2025-05-28 15:09:12,183 - app.main - INFO - 数据表创建完成
+2025-05-28 15:09:12,183 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-28 15:09:48,078 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-28 15:09:49,663 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-28 15:09:49,669 - app.main - INFO - 数据库初始化完成
+2025-05-28 15:09:49,671 - app.main - INFO - 数据表创建完成
+2025-05-28 15:09:49,672 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-28 15:10:18,628 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 15:10:19,204 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 15:10:37,161 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 15:11:03,164 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 15:11:18,205 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 15:11:49,349 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 15:12:05,831 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 15:12:28,082 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 15:12:40,405 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 15:13:35,571 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-28 15:13:35,576 - app.main - INFO - 数据库初始化完成
+2025-05-28 15:13:35,579 - app.main - INFO - 数据表创建完成
+2025-05-28 15:13:35,579 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-28 15:13:51,345 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 15:13:53,115 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 15:13:53,479 - app.api.endpoints.ai_assistant - INFO - 开始获取Ollama模型列表...
+2025-05-28 15:13:53,479 - app.api.endpoints.ai_assistant - INFO - 使用Ollama配置: base_url=http://localhost:11434, model=mollysama/rwkv-7-g1:0.4B
+2025-05-28 15:13:53,768 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 15:13:53,788 - httpx - INFO - HTTP Request: GET http://localhost:11434/ "HTTP/1.1 502 Bad Gateway"
+2025-05-28 15:13:53,789 - app.services.ai_service - INFO - Ollama服务健康检查: 502
+2025-05-28 15:13:54,038 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 15:13:54,039 - app.services.ai_service - INFO - Ollama API响应状态码: 502
+2025-05-28 15:13:54,039 - app.services.ai_service - INFO - Ollama API响应头: {'connection': 'close', 'content-length': '0'}
+2025-05-28 15:13:54,040 - app.services.ai_service - ERROR - Ollama服务返回502错误，可能服务未正确启动
+2025-05-28 15:13:54,040 - app.api.endpoints.ai_assistant - INFO - 获取到 0 个模型
+2025-05-28 15:13:54,040 - app.api.endpoints.ai_assistant - WARNING - 未检测到Ollama模型
+2025-05-28 15:13:54,040 - app.api.endpoints.ai_assistant - INFO - 尝试使用命令行方式获取Ollama模型...
+2025-05-28 15:13:54,148 - app.api.endpoints.ai_assistant - INFO - 解析模型: mollysama/rwkv-7-g1:0.4B (501 MB)
+2025-05-28 15:13:54,148 - app.api.endpoints.ai_assistant - INFO - 解析模型: qwen2.5:14b (9.0 GB)
+2025-05-28 15:13:54,148 - app.api.endpoints.ai_assistant - INFO - 解析模型: phi4:latest (9.1 GB)
+2025-05-28 15:13:54,149 - app.api.endpoints.ai_assistant - INFO - 解析模型: qwen:7b (4.5 GB)
+2025-05-28 15:13:54,149 - app.api.endpoints.ai_assistant - INFO - 解析模型: deepseek-r1:8b (4.9 GB)
+2025-05-28 15:13:54,149 - app.api.endpoints.ai_assistant - INFO - 通过命令行获取到 5 个模型
+2025-05-28 15:13:54,467 - app.api.endpoints.ai_assistant - INFO - 开始获取Ollama模型列表...
+2025-05-28 15:13:54,467 - app.api.endpoints.ai_assistant - INFO - 使用Ollama配置: base_url=http://localhost:11434, model=mollysama/rwkv-7-g1:0.4B
+2025-05-28 15:13:54,724 - httpx - INFO - HTTP Request: GET http://localhost:11434/ "HTTP/1.1 502 Bad Gateway"
+2025-05-28 15:13:54,725 - app.services.ai_service - INFO - Ollama服务健康检查: 502
+2025-05-28 15:13:54,831 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 15:13:54,887 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 15:13:54,888 - app.services.ai_service - INFO - Ollama API响应状态码: 502
+2025-05-28 15:13:54,888 - app.services.ai_service - INFO - Ollama API响应头: {'connection': 'close', 'content-length': '0'}
+2025-05-28 15:13:54,888 - app.services.ai_service - ERROR - Ollama服务返回502错误，可能服务未正确启动
+2025-05-28 15:13:54,888 - app.api.endpoints.ai_assistant - INFO - 获取到 0 个模型
+2025-05-28 15:13:54,888 - app.api.endpoints.ai_assistant - WARNING - 未检测到Ollama模型
+2025-05-28 15:13:54,889 - app.api.endpoints.ai_assistant - INFO - 尝试使用命令行方式获取Ollama模型...
+2025-05-28 15:13:55,013 - app.api.endpoints.ai_assistant - INFO - 解析模型: mollysama/rwkv-7-g1:0.4B (501 MB)
+2025-05-28 15:13:55,014 - app.api.endpoints.ai_assistant - INFO - 解析模型: qwen2.5:14b (9.0 GB)
+2025-05-28 15:13:55,014 - app.api.endpoints.ai_assistant - INFO - 解析模型: phi4:latest (9.1 GB)
+2025-05-28 15:13:55,014 - app.api.endpoints.ai_assistant - INFO - 解析模型: qwen:7b (4.5 GB)
+2025-05-28 15:13:55,014 - app.api.endpoints.ai_assistant - INFO - 解析模型: deepseek-r1:8b (4.9 GB)
+2025-05-28 15:13:55,015 - app.api.endpoints.ai_assistant - INFO - 通过命令行获取到 5 个模型
+2025-05-28 15:13:59,429 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 15:14:00,026 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 15:14:01,439 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 15:14:03,349 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 15:34:55,824 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-28 15:34:55,829 - app.main - INFO - 数据库初始化完成
+2025-05-28 15:34:55,831 - app.main - INFO - 数据表创建完成
+2025-05-28 15:34:55,831 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-28 15:35:25,948 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 15:35:27,947 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 15:35:29,886 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 15:35:31,609 - app.api.endpoints.ai_assistant - INFO - 开始获取Ollama模型列表...
+2025-05-28 15:35:31,609 - app.api.endpoints.ai_assistant - INFO - 使用Ollama配置: base_url=http://localhost:11434, model=mollysama/rwkv-7-g1:0.4B
+2025-05-28 15:35:33,194 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 15:35:33,200 - httpx - INFO - HTTP Request: GET http://localhost:11434/ "HTTP/1.1 502 Bad Gateway"
+2025-05-28 15:35:33,200 - app.services.ai_service - INFO - Ollama服务健康检查: 502
+2025-05-28 15:35:33,388 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 15:35:33,389 - app.services.ai_service - INFO - Ollama API响应状态码: 502
+2025-05-28 15:35:33,389 - app.services.ai_service - INFO - Ollama API响应头: {'connection': 'close', 'content-length': '0'}
+2025-05-28 15:35:33,390 - app.services.ai_service - ERROR - Ollama服务返回502错误，可能服务未正确启动
+2025-05-28 15:35:33,390 - app.api.endpoints.ai_assistant - INFO - 获取到 0 个模型
+2025-05-28 15:35:33,390 - app.api.endpoints.ai_assistant - WARNING - 未检测到Ollama模型
+2025-05-28 15:35:33,390 - app.api.endpoints.ai_assistant - INFO - 尝试使用命令行方式获取Ollama模型...
+2025-05-28 15:41:32,181 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-28 15:41:32,186 - app.main - INFO - 数据库初始化完成
+2025-05-28 15:41:32,189 - app.main - INFO - 数据表创建完成
+2025-05-28 15:41:32,189 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-28 15:43:24,202 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 15:43:30,087 - app.api.endpoints.ai_assistant - INFO - 开始获取Ollama模型列表...
+2025-05-28 15:43:30,087 - app.api.endpoints.ai_assistant - INFO - 使用Ollama配置: base_url=http://localhost:11434, model=mollysama/rwkv-7-g1:0.4B
+2025-05-28 15:43:30,376 - httpx - INFO - HTTP Request: GET http://localhost:11434/ "HTTP/1.1 502 Bad Gateway"
+2025-05-28 15:43:30,377 - app.services.ai_service - INFO - Ollama服务健康检查: 502
+2025-05-28 15:43:30,684 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 15:43:30,685 - app.services.ai_service - INFO - Ollama API响应状态码: 502
+2025-05-28 15:43:30,685 - app.services.ai_service - INFO - Ollama API响应头: {'connection': 'close', 'content-length': '0'}
+2025-05-28 15:43:30,686 - app.services.ai_service - ERROR - Ollama服务返回502错误，可能服务未正确启动
+2025-05-28 15:43:30,686 - app.api.endpoints.ai_assistant - INFO - 获取到 0 个模型
+2025-05-28 15:43:30,686 - app.api.endpoints.ai_assistant - WARNING - 未检测到Ollama模型
+2025-05-28 15:43:30,686 - app.api.endpoints.ai_assistant - INFO - 尝试使用命令行方式获取Ollama模型...
+2025-05-28 15:43:30,784 - app.api.endpoints.ai_assistant - INFO - 解析模型: mollysama/rwkv-7-g1:0.4B (501 MB)
+2025-05-28 15:43:30,785 - app.api.endpoints.ai_assistant - INFO - 解析模型: qwen2.5:14b (9.0 GB)
+2025-05-28 15:43:30,785 - app.api.endpoints.ai_assistant - INFO - 解析模型: phi4:latest (9.1 GB)
+2025-05-28 15:43:30,785 - app.api.endpoints.ai_assistant - INFO - 解析模型: qwen:7b (4.5 GB)
+2025-05-28 15:43:30,785 - app.api.endpoints.ai_assistant - INFO - 解析模型: deepseek-r1:8b (4.9 GB)
+2025-05-28 15:43:30,786 - app.api.endpoints.ai_assistant - INFO - 通过命令行获取到 5 个模型
+2025-05-28 15:43:36,030 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 15:43:36,037 - app.api.endpoints.ai_assistant - INFO - 开始获取Ollama模型列表...
+2025-05-28 15:43:36,037 - app.api.endpoints.ai_assistant - INFO - 使用Ollama配置: base_url=http://localhost:11434, model=mollysama/rwkv-7-g1:0.4B
+2025-05-28 15:43:36,288 - httpx - INFO - HTTP Request: GET http://localhost:11434/ "HTTP/1.1 502 Bad Gateway"
+2025-05-28 15:43:36,289 - app.services.ai_service - INFO - Ollama服务健康检查: 502
+2025-05-28 15:43:36,515 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 15:43:36,516 - app.services.ai_service - INFO - Ollama API响应状态码: 502
+2025-05-28 15:43:36,517 - app.services.ai_service - INFO - Ollama API响应头: {'connection': 'close', 'content-length': '0'}
+2025-05-28 15:43:36,517 - app.services.ai_service - ERROR - Ollama服务返回502错误，可能服务未正确启动
+2025-05-28 15:43:36,520 - app.api.endpoints.ai_assistant - INFO - 获取到 0 个模型
+2025-05-28 15:43:36,520 - app.api.endpoints.ai_assistant - WARNING - 未检测到Ollama模型
+2025-05-28 15:43:36,521 - app.api.endpoints.ai_assistant - INFO - 尝试使用命令行方式获取Ollama模型...
+2025-05-28 15:43:36,625 - app.api.endpoints.ai_assistant - INFO - 解析模型: mollysama/rwkv-7-g1:0.4B (501 MB)
+2025-05-28 15:43:36,625 - app.api.endpoints.ai_assistant - INFO - 解析模型: qwen2.5:14b (9.0 GB)
+2025-05-28 15:43:36,625 - app.api.endpoints.ai_assistant - INFO - 解析模型: phi4:latest (9.1 GB)
+2025-05-28 15:43:36,625 - app.api.endpoints.ai_assistant - INFO - 解析模型: qwen:7b (4.5 GB)
+2025-05-28 15:43:36,625 - app.api.endpoints.ai_assistant - INFO - 解析模型: deepseek-r1:8b (4.9 GB)
+2025-05-28 15:43:36,626 - app.api.endpoints.ai_assistant - INFO - 通过命令行获取到 5 个模型
+2025-05-28 15:43:41,722 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 15:43:41,953 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 15:43:58,573 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 15:43:59,145 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 15:44:00,829 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 15:44:02,353 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 15:44:55,900 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 15:46:48,730 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 15:46:49,078 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 15:59:35,382 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-28 15:59:37,068 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-28 15:59:37,076 - app.main - INFO - 数据库初始化完成
+2025-05-28 15:59:37,079 - app.main - INFO - 数据表创建完成
+2025-05-28 15:59:37,079 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-28 15:59:51,731 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-28 15:59:51,736 - app.main - INFO - 数据库初始化完成
+2025-05-28 15:59:51,738 - app.main - INFO - 数据表创建完成
+2025-05-28 15:59:51,738 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-28 16:00:32,969 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-28 16:54:04,099 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-28 16:54:04,104 - app.main - INFO - 数据库初始化完成
+2025-05-28 16:54:04,106 - app.main - INFO - 数据表创建完成
+2025-05-28 16:54:04,106 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 09:09:33,205 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 09:09:33,215 - app.main - INFO - 数据库初始化完成
+2025-05-29 09:09:33,217 - app.main - INFO - 数据表创建完成
+2025-05-29 09:09:33,217 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 09:14:27,490 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:14:27,628 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-29 09:14:28,139 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:14:28,758 - watchfiles.main - INFO - 5 changes detected
+2025-05-29 09:14:29,114 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 09:14:29,118 - app.main - INFO - 数据库初始化完成
+2025-05-29 09:14:29,121 - app.main - INFO - 数据表创建完成
+2025-05-29 09:14:29,121 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 09:14:29,123 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:14:29,483 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:14:32,267 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:14:47,067 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:14:47,226 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-29 09:14:47,725 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:14:48,345 - watchfiles.main - INFO - 5 changes detected
+2025-05-29 09:14:48,696 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 09:14:48,703 - app.main - INFO - 数据库初始化完成
+2025-05-29 09:14:48,706 - app.main - INFO - 数据表创建完成
+2025-05-29 09:14:48,706 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 09:14:48,708 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:14:49,070 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:14:50,342 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:14:50,694 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:14:53,185 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:14:53,544 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:14:56,440 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:14:56,799 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:14:59,438 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:15:04,618 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:15:04,836 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-29 09:15:05,350 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:15:05,967 - watchfiles.main - INFO - 5 changes detected
+2025-05-29 09:15:06,301 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 09:15:06,306 - app.main - INFO - 数据库初始化完成
+2025-05-29 09:15:06,308 - app.main - INFO - 数据表创建完成
+2025-05-29 09:15:06,309 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 09:15:06,325 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:15:06,687 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:15:08,364 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:15:08,729 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:15:11,268 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:15:11,631 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:15:14,675 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:15:15,033 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:15:17,319 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:15:17,682 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:15:20,271 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:15:46,100 - watchfiles.main - INFO - 2 changes detected
+2025-05-29 09:15:46,275 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-29 09:15:46,830 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:15:47,395 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:15:47,753 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:15:47,885 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 09:15:47,890 - app.main - INFO - 数据库初始化完成
+2025-05-29 09:15:47,892 - app.main - INFO - 数据表创建完成
+2025-05-29 09:15:47,893 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 09:15:48,112 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:15:50,442 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:15:50,799 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:15:53,434 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:16:33,587 - watchfiles.main - INFO - 2 changes detected
+2025-05-29 09:16:33,814 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-29 09:16:34,383 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:16:35,441 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 09:16:35,447 - app.main - INFO - 数据库初始化完成
+2025-05-29 09:16:35,450 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:16:35,450 - app.main - INFO - 数据表创建完成
+2025-05-29 09:16:35,450 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 09:16:35,816 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:17:19,552 - watchfiles.main - INFO - 2 changes detected
+2025-05-29 09:17:19,779 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-29 09:17:20,350 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:17:21,384 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 09:17:21,389 - app.main - INFO - 数据库初始化完成
+2025-05-29 09:17:21,391 - app.main - INFO - 数据表创建完成
+2025-05-29 09:17:21,392 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 09:17:21,420 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:17:21,776 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:17:23,752 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:17:24,105 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:17:26,597 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:17:26,951 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:17:29,690 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:17:30,050 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:17:32,640 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:17:32,996 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:17:35,787 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:17:36,142 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:17:38,631 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:18:10,601 - watchfiles.main - INFO - 2 changes detected
+2025-05-29 09:18:10,814 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-29 09:18:11,365 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:18:12,387 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:18:12,396 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 09:18:12,400 - app.main - INFO - 数据库初始化完成
+2025-05-29 09:18:12,403 - app.main - INFO - 数据表创建完成
+2025-05-29 09:18:12,403 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 09:18:12,740 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:18:14,871 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:18:15,232 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:18:17,768 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:18:18,130 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:18:20,715 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:18:21,077 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:18:23,814 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:19:05,432 - watchfiles.main - INFO - 2 changes detected
+2025-05-29 09:19:05,620 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-29 09:19:06,190 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:19:07,190 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 09:19:07,194 - app.main - INFO - 数据库初始化完成
+2025-05-29 09:19:07,197 - app.main - INFO - 数据表创建完成
+2025-05-29 09:19:07,197 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 09:19:07,210 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:19:07,569 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:19:08,843 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:19:09,197 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:19:11,934 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:19:21,622 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:19:21,810 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-29 09:19:22,349 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:19:23,111 - watchfiles.main - INFO - 20 changes detected
+2025-05-29 09:19:23,442 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 09:19:23,523 - watchfiles.main - INFO - 4 changes detected
+2025-05-29 09:19:23,541 - app.main - INFO - 数据库初始化完成
+2025-05-29 09:19:23,546 - app.main - INFO - 数据表创建完成
+2025-05-29 09:19:23,546 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 09:19:23,877 - watchfiles.main - INFO - 5 changes detected
+2025-05-29 09:19:59,111 - watchfiles.main - INFO - 2 changes detected
+2025-05-29 09:19:59,283 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-29 09:19:59,826 - watchfiles.main - INFO - 2 changes detected
+2025-05-29 09:20:00,843 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:20:00,855 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 09:20:00,861 - app.main - INFO - 数据库初始化完成
+2025-05-29 09:20:00,864 - app.main - INFO - 数据表创建完成
+2025-05-29 09:20:00,865 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 09:20:01,201 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:20:03,126 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:20:03,492 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:20:06,186 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:20:34,687 - watchfiles.main - INFO - 2 changes detected
+2025-05-29 09:20:34,895 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-29 09:20:35,446 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:20:36,312 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:20:36,469 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 09:20:36,475 - app.main - INFO - 数据库初始化完成
+2025-05-29 09:20:36,479 - app.main - INFO - 数据表创建完成
+2025-05-29 09:20:36,479 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 09:20:36,667 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:20:39,349 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:28:25,070 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:28:25,224 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-29 09:28:25,783 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:28:26,497 - watchfiles.main - INFO - 5 changes detected
+2025-05-29 09:28:26,846 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 09:28:26,851 - app.main - INFO - 数据库初始化完成
+2025-05-29 09:28:26,855 - app.main - INFO - 数据表创建完成
+2025-05-29 09:28:26,856 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 09:28:26,862 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:28:27,218 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:28:28,689 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:28:29,054 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:28:31,790 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:30:09,300 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:30:09,544 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-29 09:30:10,086 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:30:10,802 - watchfiles.main - INFO - 5 changes detected
+2025-05-29 09:30:11,164 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:30:11,167 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 09:30:11,173 - app.main - INFO - 数据库初始化完成
+2025-05-29 09:30:11,176 - app.main - INFO - 数据表创建完成
+2025-05-29 09:30:11,177 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 09:30:11,523 - watchfiles.main - INFO - 1 change detected
+2025-05-29 09:30:14,056 - watchfiles.main - INFO - 1 change detected
+2025-05-29 10:29:17,568 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 10:29:17,665 - watchfiles.main - INFO - 3 changes detected
+2025-05-29 10:29:17,714 - app.main - INFO - 数据库初始化完成
+2025-05-29 10:29:17,719 - app.main - INFO - 数据表创建完成
+2025-05-29 10:29:17,719 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 10:29:18,030 - watchfiles.main - INFO - 5 changes detected
+2025-05-29 10:29:18,392 - watchfiles.main - INFO - 1 change detected
+2025-05-29 10:29:21,036 - watchfiles.main - INFO - 1 change detected
+2025-05-29 10:31:18,621 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 10:31:18,629 - app.main - INFO - 数据库初始化完成
+2025-05-29 10:31:18,633 - app.main - INFO - 数据表创建完成
+2025-05-29 10:31:18,633 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 11:01:21,243 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 11:01:21,252 - app.main - INFO - 数据库初始化完成
+2025-05-29 11:01:21,256 - app.main - INFO - 数据表创建完成
+2025-05-29 11:01:21,256 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 11:07:16,741 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-29 11:07:18,282 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-29 11:07:20,246 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-29 11:07:21,916 - app.api.endpoints.ai_assistant - INFO - 开始获取Ollama模型列表...
+2025-05-29 11:07:21,917 - app.api.endpoints.ai_assistant - INFO - 使用Ollama配置: base_url=http://localhost:11434, model=mollysama/rwkv-7-g1:0.4B
+2025-05-29 11:07:23,497 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-29 11:07:23,497 - app.services.ai_service - INFO - Ollama API响应状态码: 502
+2025-05-29 11:07:23,498 - app.services.ai_service - INFO - Ollama API响应头: {'connection': 'close', 'content-length': '0'}
+2025-05-29 11:07:23,498 - app.services.ai_service - ERROR - Ollama服务返回502错误，可能服务未正确启动
+2025-05-29 11:07:23,498 - app.api.endpoints.ai_assistant - INFO - 获取到 0 个模型
+2025-05-29 11:07:23,499 - app.api.endpoints.ai_assistant - WARNING - 未检测到Ollama模型
+2025-05-29 11:07:23,499 - app.api.endpoints.ai_assistant - INFO - 尝试使用命令行方式获取Ollama模型...
+2025-05-29 11:07:24,226 - app.api.endpoints.ai_assistant - INFO - 解析模型: mollysama/rwkv-7-g1:0.4B (501 MB)
+2025-05-29 11:07:24,227 - app.api.endpoints.ai_assistant - INFO - 解析模型: qwen2.5:14b (9.0 GB)
+2025-05-29 11:07:24,227 - app.api.endpoints.ai_assistant - INFO - 解析模型: phi4:latest (9.1 GB)
+2025-05-29 11:07:24,227 - app.api.endpoints.ai_assistant - INFO - 解析模型: qwen:7b (4.5 GB)
+2025-05-29 11:07:24,227 - app.api.endpoints.ai_assistant - INFO - 解析模型: deepseek-r1:8b (4.9 GB)
+2025-05-29 11:07:24,227 - app.api.endpoints.ai_assistant - INFO - 通过命令行获取到 5 个模型
+2025-05-29 11:07:24,228 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-29 11:07:24,551 - app.api.endpoints.ai_assistant - INFO - 开始获取Ollama模型列表...
+2025-05-29 11:07:24,551 - app.api.endpoints.ai_assistant - INFO - 使用Ollama配置: base_url=http://localhost:11434, model=mollysama/rwkv-7-g1:0.4B
+2025-05-29 11:07:26,191 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-29 11:07:26,193 - app.services.ai_service - INFO - Ollama API响应状态码: 502
+2025-05-29 11:07:26,193 - app.services.ai_service - INFO - Ollama API响应头: {'connection': 'close', 'content-length': '0'}
+2025-05-29 11:07:26,193 - app.services.ai_service - ERROR - Ollama服务返回502错误，可能服务未正确启动
+2025-05-29 11:07:26,193 - app.api.endpoints.ai_assistant - INFO - 获取到 0 个模型
+2025-05-29 11:07:26,194 - app.api.endpoints.ai_assistant - WARNING - 未检测到Ollama模型
+2025-05-29 11:07:26,194 - app.api.endpoints.ai_assistant - INFO - 尝试使用命令行方式获取Ollama模型...
+2025-05-29 11:07:26,267 - app.api.endpoints.ai_assistant - INFO - 解析模型: mollysama/rwkv-7-g1:0.4B (501 MB)
+2025-05-29 11:07:26,268 - app.api.endpoints.ai_assistant - INFO - 解析模型: qwen2.5:14b (9.0 GB)
+2025-05-29 11:07:26,268 - app.api.endpoints.ai_assistant - INFO - 解析模型: phi4:latest (9.1 GB)
+2025-05-29 11:07:26,268 - app.api.endpoints.ai_assistant - INFO - 解析模型: qwen:7b (4.5 GB)
+2025-05-29 11:07:26,268 - app.api.endpoints.ai_assistant - INFO - 解析模型: deepseek-r1:8b (4.9 GB)
+2025-05-29 11:07:26,268 - app.api.endpoints.ai_assistant - INFO - 通过命令行获取到 5 个模型
+2025-05-29 11:23:53,455 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 11:23:53,497 - app.main - INFO - 数据库初始化完成
+2025-05-29 11:23:53,503 - app.main - INFO - 数据表创建完成
+2025-05-29 11:23:53,503 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 11:23:53,558 - watchfiles.main - INFO - 3 changes detected
+2025-05-29 11:23:53,914 - watchfiles.main - INFO - 1 change detected
+2025-05-29 11:23:54,271 - watchfiles.main - INFO - 1 change detected
+2025-05-29 11:23:56,608 - watchfiles.main - INFO - 1 change detected
+2025-05-29 11:23:56,963 - watchfiles.main - INFO - 1 change detected
+2025-05-29 11:23:59,657 - watchfiles.main - INFO - 1 change detected
+2025-05-29 11:24:00,022 - watchfiles.main - INFO - 1 change detected
+2025-05-29 11:24:02,616 - watchfiles.main - INFO - 1 change detected
+2025-05-29 11:24:02,979 - watchfiles.main - INFO - 1 change detected
+2025-05-29 11:24:05,622 - watchfiles.main - INFO - 1 change detected
+2025-05-29 11:24:05,979 - watchfiles.main - INFO - 1 change detected
+2025-05-29 11:24:08,919 - watchfiles.main - INFO - 1 change detected
+2025-05-29 11:24:09,282 - watchfiles.main - INFO - 1 change detected
+2025-05-29 11:24:11,614 - watchfiles.main - INFO - 1 change detected
+2025-05-29 11:24:11,973 - watchfiles.main - INFO - 1 change detected
+2025-05-29 11:24:14,706 - watchfiles.main - INFO - 1 change detected
+2025-05-29 11:24:15,057 - watchfiles.main - INFO - 1 change detected
+2025-05-29 11:24:17,596 - watchfiles.main - INFO - 1 change detected
+2025-05-29 11:24:17,956 - watchfiles.main - INFO - 1 change detected
+2025-05-29 11:24:20,591 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:01:20,848 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 13:01:20,856 - app.main - INFO - 数据库初始化完成
+2025-05-29 13:01:20,861 - app.main - INFO - 数据表创建完成
+2025-05-29 13:01:20,861 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 13:13:07,223 - watchfiles.main - INFO - 2 changes detected
+2025-05-29 13:13:07,428 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-29 13:13:08,021 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:13:09,184 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 13:13:09,192 - app.main - INFO - 数据库初始化完成
+2025-05-29 13:13:09,197 - app.main - INFO - 数据表创建完成
+2025-05-29 13:13:09,197 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 13:13:09,198 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:13:09,553 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:13:10,672 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:13:11,037 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:13:13,673 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:13:14,025 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:13:16,612 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:13:16,974 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:13:19,668 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:13:20,020 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:13:22,613 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:13:22,977 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:13:25,616 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:13:25,981 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:13:28,672 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:13:29,035 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:13:31,677 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:13:32,034 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:13:34,678 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:13:51,326 - watchfiles.main - INFO - 2 changes detected
+2025-05-29 13:13:51,491 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-29 13:13:52,064 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:13:52,679 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:13:53,039 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:13:53,258 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 13:13:53,267 - app.main - INFO - 数据库初始化完成
+2025-05-29 13:13:53,272 - app.main - INFO - 数据表创建完成
+2025-05-29 13:13:53,272 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 13:13:53,400 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:13:53,758 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:13:55,736 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:13:56,093 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:13:58,731 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:13:59,091 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:14:01,777 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:14:02,143 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:14:04,732 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:14:05,085 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:14:07,984 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:14:08,342 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:14:10,775 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:14:11,133 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:14:13,768 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:14:14,121 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:14:16,763 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:14:40,243 - watchfiles.main - INFO - 2 changes detected
+2025-05-29 13:14:40,402 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-29 13:14:41,002 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:14:42,078 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:14:42,084 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 13:14:42,092 - app.main - INFO - 数据库初始化完成
+2025-05-29 13:14:42,097 - app.main - INFO - 数据表创建完成
+2025-05-29 13:14:42,098 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 13:14:42,429 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:14:43,856 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:14:44,208 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:14:46,895 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:14:47,257 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:14:49,850 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:14:50,208 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:14:52,896 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:15:21,374 - watchfiles.main - INFO - 2 changes detected
+2025-05-29 13:15:21,519 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-29 13:15:22,107 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:15:22,971 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:15:23,208 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 13:15:23,216 - app.main - INFO - 数据库初始化完成
+2025-05-29 13:15:23,221 - app.main - INFO - 数据表创建完成
+2025-05-29 13:15:23,222 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 13:15:23,323 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:15:26,003 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:16:05,331 - watchfiles.main - INFO - 2 changes detected
+2025-05-29 13:16:05,492 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-29 13:16:06,063 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:16:07,131 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:16:07,155 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 13:16:07,163 - app.main - INFO - 数据库初始化完成
+2025-05-29 13:16:07,168 - app.main - INFO - 数据表创建完成
+2025-05-29 13:16:07,168 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 13:16:07,489 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:16:07,951 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:16:08,307 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:16:10,994 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:16:11,349 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:16:14,041 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:16:49,629 - watchfiles.main - INFO - 2 changes detected
+2025-05-29 13:16:49,762 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-29 13:16:50,318 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:16:51,390 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:16:51,405 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 13:16:51,413 - app.main - INFO - 数据库初始化完成
+2025-05-29 13:16:51,418 - app.main - INFO - 数据表创建完成
+2025-05-29 13:16:51,418 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 13:16:51,749 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:16:53,223 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:17:31,470 - watchfiles.main - INFO - 2 changes detected
+2025-05-29 13:17:31,659 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-29 13:17:32,217 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:17:33,291 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 13:17:33,292 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:17:33,299 - app.main - INFO - 数据库初始化完成
+2025-05-29 13:17:33,304 - app.main - INFO - 数据表创建完成
+2025-05-29 13:17:33,304 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 13:17:33,656 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:17:35,385 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:18:12,752 - watchfiles.main - INFO - 2 changes detected
+2025-05-29 13:18:12,914 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-29 13:18:13,474 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:18:14,445 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:18:14,540 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 13:18:14,548 - app.main - INFO - 数据库初始化完成
+2025-05-29 13:18:14,553 - app.main - INFO - 数据表创建完成
+2025-05-29 13:18:14,553 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 13:18:14,800 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:18:17,489 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:18:17,844 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:18:20,539 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:18:20,893 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:18:23,478 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:18:56,493 - watchfiles.main - INFO - 2 changes detected
+2025-05-29 13:18:56,689 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-29 13:18:57,230 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:18:58,293 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 13:18:58,301 - app.main - INFO - 数据库初始化完成
+2025-05-29 13:18:58,302 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:18:58,306 - app.main - INFO - 数据表创建完成
+2025-05-29 13:18:58,306 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 13:18:58,667 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:18:59,640 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:18:59,997 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:19:02,586 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:19:10,844 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:19:11,006 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-29 13:19:11,565 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:19:12,233 - watchfiles.main - INFO - 5 changes detected
+2025-05-29 13:19:12,591 - watchfiles.main - INFO - 10 changes detected
+2025-05-29 13:19:12,674 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 13:19:12,733 - app.main - INFO - 数据库初始化完成
+2025-05-29 13:19:12,738 - app.main - INFO - 数据表创建完成
+2025-05-29 13:19:12,738 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 13:19:12,954 - watchfiles.main - INFO - 4 changes detected
+2025-05-29 13:19:14,583 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:19:14,937 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:19:17,726 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:19:27,099 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:19:27,305 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-29 13:19:28,369 - watchfiles.main - INFO - 2 changes detected
+2025-05-29 13:19:29,038 - watchfiles.main - INFO - 5 changes detected
+2025-05-29 13:19:29,548 - watchfiles.main - INFO - 4 changes detected
+2025-05-29 13:19:29,905 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:19:44,056 - watchfiles.main - INFO - 1 change detected
+2025-05-29 13:19:45,176 - watchfiles.main - INFO - 5 changes detected
+2025-05-29 13:24:39,720 - watchfiles.main - INFO - 2 changes detected
+2025-05-29 14:39:55,391 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 14:39:55,400 - app.main - INFO - 数据库初始化完成
+2025-05-29 14:39:55,406 - app.main - INFO - 数据表创建完成
+2025-05-29 14:39:55,407 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 14:52:30,844 - app.api.endpoints.civilian_systems - INFO - 创建生民体系成功: 1
+2025-05-29 14:52:30,935 - watchfiles.main - INFO - 3 changes detected
+2025-05-29 14:52:31,297 - watchfiles.main - INFO - 1 change detected
+2025-05-29 14:52:33,128 - watchfiles.main - INFO - 1 change detected
+2025-05-29 14:52:33,482 - watchfiles.main - INFO - 1 change detected
+2025-05-29 14:52:36,122 - watchfiles.main - INFO - 1 change detected
+2025-05-29 14:52:36,486 - watchfiles.main - INFO - 1 change detected
+2025-05-29 14:52:39,074 - watchfiles.main - INFO - 1 change detected
+2025-05-29 14:52:39,432 - watchfiles.main - INFO - 1 change detected
+2025-05-29 14:52:42,067 - watchfiles.main - INFO - 1 change detected
+2025-05-29 14:52:42,422 - watchfiles.main - INFO - 1 change detected
+2025-05-29 14:52:45,058 - watchfiles.main - INFO - 1 change detected
+2025-05-29 14:52:45,420 - watchfiles.main - INFO - 1 change detected
+2025-05-29 14:52:48,162 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:00:58,853 - app.main - ERROR - HTTP异常: 400 - 1 validation error for ProjectResponse
+progress
+  Field required [type=missing, input_value=<Project(id=1)>, input_type=Project]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+2025-05-29 15:00:59,163 - watchfiles.main - INFO - 3 changes detected
+2025-05-29 15:02:03,219 - app.api.endpoints.civilian_systems - INFO - 创建生民体系成功: 2
+2025-05-29 15:02:03,277 - watchfiles.main - INFO - 3 changes detected
+2025-05-29 15:02:05,255 - app.api.endpoints.judicial_systems - INFO - 创建司法体系成功: 1
+2025-05-29 15:02:05,351 - watchfiles.main - INFO - 3 changes detected
+2025-05-29 15:02:07,298 - app.api.endpoints.profession_systems - INFO - 创建职业体系成功: 1
+2025-05-29 15:02:07,377 - watchfiles.main - INFO - 3 changes detected
+2025-05-29 15:03:46,469 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:03:46,830 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:03:48,106 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:03:48,112 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:03:48,147 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 15:03:48,156 - app.main - INFO - 数据库初始化完成
+2025-05-29 15:03:48,161 - app.main - INFO - 数据表创建完成
+2025-05-29 15:03:48,161 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 15:03:48,462 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:03:48,478 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:03:50,140 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:03:50,156 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:03:50,498 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:03:50,514 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:03:53,106 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:03:53,138 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:03:53,472 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:03:53,504 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:03:56,065 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:03:56,097 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:03:56,420 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:03:56,452 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:03:59,142 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:03:59,160 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:03:59,494 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:03:59,525 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:04:02,236 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:04:02,262 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:04:02,594 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:04:02,626 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:04:05,165 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:04:05,180 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:04:05,530 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:04:05,544 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:04:08,126 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:04:08,159 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:04:08,478 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:04:08,525 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:04:11,165 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:04:11,171 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:04:11,520 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:04:11,536 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:04:14,311 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:04:14,328 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:04:14,672 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:04:14,687 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:04:17,414 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:04:17,430 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:04:17,774 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:04:17,791 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:04:20,211 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:04:20,225 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:04:20,567 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:04:20,582 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:04:23,153 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:04:23,169 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:05:02,861 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:05:03,228 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:05:06,983 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:05:07,337 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:05:10,085 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:05:10,452 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:05:13,702 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:07:46,603 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:07:46,803 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-29 15:07:47,397 - watchfiles.main - INFO - 6 changes detected
+2025-05-29 15:07:48,830 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:07:48,878 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 15:07:48,886 - app.main - INFO - 数据库初始化完成
+2025-05-29 15:07:48,892 - app.main - INFO - 数据表创建完成
+2025-05-29 15:07:48,892 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 15:07:49,194 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:07:51,120 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:07:51,483 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:07:53,819 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:07:54,186 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:07:56,719 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:12:24,331 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:12:24,698 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:12:26,177 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:12:26,187 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:12:26,291 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 15:12:26,300 - app.main - INFO - 数据库初始化完成
+2025-05-29 15:12:26,306 - app.main - INFO - 数据表创建完成
+2025-05-29 15:12:26,306 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 15:12:26,534 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:12:26,550 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:12:27,658 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:12:27,672 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:12:28,011 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:12:28,026 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:12:29,952 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:12:30,761 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:15:30,954 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-29 15:15:32,877 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-29 15:44:29,560 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 15:44:29,569 - app.main - INFO - 数据库初始化完成
+2025-05-29 15:44:29,575 - app.main - INFO - 数据表创建完成
+2025-05-29 15:44:29,575 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 15:46:54,020 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:46:54,384 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:46:54,502 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:46:54,746 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:46:54,858 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:46:55,767 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:46:55,776 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:46:55,806 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 15:46:55,814 - app.main - INFO - 数据库初始化完成
+2025-05-29 15:46:55,820 - app.main - INFO - 数据表创建完成
+2025-05-29 15:46:55,820 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 15:46:56,126 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:46:56,142 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:46:57,964 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:46:57,978 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:46:58,316 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:46:58,332 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:47:01,009 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:47:01,026 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:47:01,366 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:47:01,382 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:47:03,061 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:47:03,417 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:47:03,978 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:47:04,336 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:47:07,073 - watchfiles.main - INFO - 1 change detected
+2025-05-29 15:56:33,299 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 15:56:33,308 - app.main - INFO - 数据库初始化完成
+2025-05-29 15:56:33,313 - app.main - INFO - 数据表创建完成
+2025-05-29 15:56:33,313 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 15:56:33,727 - app.api.endpoints.ai_assistant - INFO - 开始获取Ollama模型列表...
+2025-05-29 15:56:33,727 - app.api.endpoints.ai_assistant - INFO - 使用Ollama配置: base_url=http://localhost:11434, model=mollysama/rwkv-7-g1:0.4B
+2025-05-29 15:56:35,346 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-29 15:56:35,347 - app.services.ai_service - INFO - Ollama API响应状态码: 502
+2025-05-29 15:56:35,347 - app.services.ai_service - INFO - Ollama API响应头: {'connection': 'close', 'content-length': '0'}
+2025-05-29 15:56:35,347 - app.services.ai_service - ERROR - Ollama服务返回502错误，可能服务未正确启动
+2025-05-29 15:56:35,347 - app.api.endpoints.ai_assistant - INFO - 获取到 0 个模型
+2025-05-29 15:56:35,347 - app.api.endpoints.ai_assistant - WARNING - 未检测到Ollama模型
+2025-05-29 15:56:35,347 - app.api.endpoints.ai_assistant - INFO - 尝试使用命令行方式获取Ollama模型...
+2025-05-29 15:56:35,431 - app.api.endpoints.ai_assistant - INFO - 解析模型: mollysama/rwkv-7-g1:0.4B (501 MB)
+2025-05-29 15:56:35,432 - app.api.endpoints.ai_assistant - INFO - 解析模型: qwen2.5:14b (9.0 GB)
+2025-05-29 15:56:35,432 - app.api.endpoints.ai_assistant - INFO - 解析模型: phi4:latest (9.1 GB)
+2025-05-29 15:56:35,432 - app.api.endpoints.ai_assistant - INFO - 解析模型: qwen:7b (4.5 GB)
+2025-05-29 15:56:35,432 - app.api.endpoints.ai_assistant - INFO - 解析模型: deepseek-r1:8b (4.9 GB)
+2025-05-29 15:56:35,433 - app.api.endpoints.ai_assistant - INFO - 通过命令行获取到 5 个模型
+2025-05-29 15:56:38,501 - app.main - ERROR - HTTP异常: 400 - 未设置当前操作项目
+2025-05-29 15:56:56,078 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-29 15:56:57,976 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-29 15:57:17,899 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-29 15:57:19,739 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-29 15:57:21,633 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-29 15:57:23,540 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-29 15:58:34,532 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-29 15:58:36,132 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-29 15:59:13,342 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-29 15:59:14,952 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-29 16:00:30,845 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:00:31,207 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:00:32,738 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:00:32,741 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:00:32,802 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 16:00:32,811 - app.main - INFO - 数据库初始化完成
+2025-05-29 16:00:32,817 - app.main - INFO - 数据表创建完成
+2025-05-29 16:00:32,817 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 16:00:33,090 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:00:33,106 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:00:33,450 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:00:33,465 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:00:37,525 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:00:37,885 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:00:39,255 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:00:39,618 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:00:42,411 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:01:11,315 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 16:01:11,324 - app.main - INFO - 数据库初始化完成
+2025-05-29 16:01:11,329 - app.main - INFO - 数据表创建完成
+2025-05-29 16:01:11,329 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 16:01:55,267 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-29 16:01:58,299 - app.api.endpoints.ai_assistant - INFO - 开始获取Ollama模型列表...
+2025-05-29 16:01:58,299 - app.api.endpoints.ai_assistant - INFO - 使用Ollama配置: base_url=http://localhost:11434, model=mollysama/rwkv-7-g1:0.4B
+2025-05-29 16:01:59,863 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-29 16:01:59,864 - app.services.ai_service - INFO - Ollama API响应状态码: 502
+2025-05-29 16:01:59,864 - app.services.ai_service - INFO - Ollama API响应头: {'connection': 'close', 'content-length': '0'}
+2025-05-29 16:01:59,864 - app.services.ai_service - ERROR - Ollama服务返回502错误，可能服务未正确启动
+2025-05-29 16:01:59,864 - app.api.endpoints.ai_assistant - INFO - 获取到 0 个模型
+2025-05-29 16:01:59,864 - app.api.endpoints.ai_assistant - WARNING - 未检测到Ollama模型
+2025-05-29 16:01:59,865 - app.api.endpoints.ai_assistant - INFO - 尝试使用命令行方式获取Ollama模型...
+2025-05-29 16:01:59,953 - app.api.endpoints.ai_assistant - INFO - 解析模型: mollysama/rwkv-7-g1:0.4B (501 MB)
+2025-05-29 16:01:59,954 - app.api.endpoints.ai_assistant - INFO - 解析模型: qwen2.5:14b (9.0 GB)
+2025-05-29 16:01:59,954 - app.api.endpoints.ai_assistant - INFO - 解析模型: phi4:latest (9.1 GB)
+2025-05-29 16:01:59,955 - app.api.endpoints.ai_assistant - INFO - 解析模型: qwen:7b (4.5 GB)
+2025-05-29 16:01:59,955 - app.api.endpoints.ai_assistant - INFO - 解析模型: deepseek-r1:8b (4.9 GB)
+2025-05-29 16:01:59,955 - app.api.endpoints.ai_assistant - INFO - 通过命令行获取到 5 个模型
+2025-05-29 16:02:02,990 - app.main - ERROR - HTTP异常: 400 - 未设置当前操作项目
+2025-05-29 16:11:58,294 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 16:11:58,302 - app.main - INFO - 数据库初始化完成
+2025-05-29 16:11:58,308 - app.main - INFO - 数据表创建完成
+2025-05-29 16:11:58,308 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 16:21:08,102 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 16:21:08,110 - app.main - INFO - 数据库初始化完成
+2025-05-29 16:21:08,116 - app.main - INFO - 数据表创建完成
+2025-05-29 16:21:08,116 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 16:22:21,077 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-29 16:22:22,447 - app.api.endpoints.ai_assistant - INFO - 开始获取Ollama模型列表...
+2025-05-29 16:22:22,448 - app.api.endpoints.ai_assistant - INFO - 使用Ollama配置: base_url=http://localhost:11434, model=mollysama/rwkv-7-g1:0.4B
+2025-05-29 16:22:24,029 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-29 16:22:24,030 - app.services.ai_service - INFO - Ollama API响应状态码: 502
+2025-05-29 16:22:24,030 - app.services.ai_service - INFO - Ollama API响应头: {'connection': 'close', 'content-length': '0'}
+2025-05-29 16:22:24,030 - app.services.ai_service - ERROR - Ollama服务返回502错误，可能服务未正确启动
+2025-05-29 16:22:24,030 - app.api.endpoints.ai_assistant - INFO - 获取到 0 个模型
+2025-05-29 16:22:24,030 - app.api.endpoints.ai_assistant - WARNING - 未检测到Ollama模型
+2025-05-29 16:22:24,030 - app.api.endpoints.ai_assistant - INFO - 尝试使用命令行方式获取Ollama模型...
+2025-05-29 16:22:24,123 - app.api.endpoints.ai_assistant - INFO - 解析模型: mollysama/rwkv-7-g1:0.4B (501 MB)
+2025-05-29 16:22:24,123 - app.api.endpoints.ai_assistant - INFO - 解析模型: qwen2.5:14b (9.0 GB)
+2025-05-29 16:22:24,124 - app.api.endpoints.ai_assistant - INFO - 解析模型: phi4:latest (9.1 GB)
+2025-05-29 16:22:24,125 - app.api.endpoints.ai_assistant - INFO - 解析模型: qwen:7b (4.5 GB)
+2025-05-29 16:22:24,125 - app.api.endpoints.ai_assistant - INFO - 解析模型: deepseek-r1:8b (4.9 GB)
+2025-05-29 16:22:24,125 - app.api.endpoints.ai_assistant - INFO - 通过命令行获取到 5 个模型
+2025-05-29 16:22:24,126 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-29 16:22:24,485 - app.api.endpoints.ai_assistant - INFO - 开始获取Ollama模型列表...
+2025-05-29 16:22:24,486 - app.api.endpoints.ai_assistant - INFO - 使用Ollama配置: base_url=http://localhost:11434, model=mollysama/rwkv-7-g1:0.4B
+2025-05-29 16:22:26,025 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-29 16:22:26,025 - app.services.ai_service - INFO - Ollama API响应状态码: 502
+2025-05-29 16:22:26,026 - app.services.ai_service - INFO - Ollama API响应头: {'connection': 'close', 'content-length': '0'}
+2025-05-29 16:22:26,026 - app.services.ai_service - ERROR - Ollama服务返回502错误，可能服务未正确启动
+2025-05-29 16:22:26,027 - app.api.endpoints.ai_assistant - INFO - 获取到 0 个模型
+2025-05-29 16:22:26,027 - app.api.endpoints.ai_assistant - WARNING - 未检测到Ollama模型
+2025-05-29 16:22:26,027 - app.api.endpoints.ai_assistant - INFO - 尝试使用命令行方式获取Ollama模型...
+2025-05-29 16:22:26,107 - app.api.endpoints.ai_assistant - INFO - 解析模型: mollysama/rwkv-7-g1:0.4B (501 MB)
+2025-05-29 16:22:26,107 - app.api.endpoints.ai_assistant - INFO - 解析模型: qwen2.5:14b (9.0 GB)
+2025-05-29 16:22:26,107 - app.api.endpoints.ai_assistant - INFO - 解析模型: phi4:latest (9.1 GB)
+2025-05-29 16:22:26,108 - app.api.endpoints.ai_assistant - INFO - 解析模型: qwen:7b (4.5 GB)
+2025-05-29 16:22:26,109 - app.api.endpoints.ai_assistant - INFO - 解析模型: deepseek-r1:8b (4.9 GB)
+2025-05-29 16:22:26,109 - app.api.endpoints.ai_assistant - INFO - 通过命令行获取到 5 个模型
+2025-05-29 16:29:05,903 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 16:29:05,912 - app.main - INFO - 数据库初始化完成
+2025-05-29 16:29:05,917 - app.main - INFO - 数据表创建完成
+2025-05-29 16:29:05,917 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 16:29:13,978 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 16:29:13,987 - app.main - INFO - 数据库初始化完成
+2025-05-29 16:29:13,992 - app.main - INFO - 数据表创建完成
+2025-05-29 16:29:13,992 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 16:32:01,803 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:32:02,017 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-29 16:32:02,677 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:32:03,997 - watchfiles.main - INFO - 5 changes detected
+2025-05-29 16:32:04,191 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 16:32:04,200 - app.main - INFO - 数据库初始化完成
+2025-05-29 16:32:04,206 - app.main - INFO - 数据表创建完成
+2025-05-29 16:32:04,206 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 16:32:04,351 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:32:04,711 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:32:05,425 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:32:05,790 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:32:06,146 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:32:08,426 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:32:08,791 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:32:11,480 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:32:11,837 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:32:14,473 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:32:14,824 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:32:16,149 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:32:16,387 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-29 16:32:17,026 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:32:17,539 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:32:17,905 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:32:18,310 - watchfiles.main - INFO - 5 changes detected
+2025-05-29 16:32:18,498 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 16:32:18,508 - app.main - INFO - 数据库初始化完成
+2025-05-29 16:32:18,513 - app.main - INFO - 数据表创建完成
+2025-05-29 16:32:18,514 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 16:32:18,664 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:32:19,025 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:32:20,545 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:32:20,903 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:32:25,154 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:32:25,513 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:32:26,479 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:32:26,830 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:32:30,530 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:32:30,883 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:32:32,654 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:32:33,017 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:32:35,858 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:32:36,211 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:32:38,650 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:32:39,003 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:32:41,992 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:32:45,140 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:32:45,283 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-29 16:32:45,933 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:32:47,154 - watchfiles.main - INFO - 5 changes detected
+2025-05-29 16:32:47,411 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 16:32:47,422 - app.main - INFO - 数据库初始化完成
+2025-05-29 16:32:47,430 - app.main - INFO - 数据表创建完成
+2025-05-29 16:32:47,430 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 16:32:47,520 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:32:47,884 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:32:48,240 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:32:57,863 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:32:58,100 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-29 16:32:58,736 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:32:59,752 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:33:00,105 - watchfiles.main - INFO - 6 changes detected
+2025-05-29 16:33:00,300 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 16:33:00,310 - app.main - INFO - 数据库初始化完成
+2025-05-29 16:33:00,316 - app.main - INFO - 数据表创建完成
+2025-05-29 16:33:00,316 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 16:33:00,462 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:33:00,817 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:33:03,041 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:33:03,397 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:33:05,737 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:33:06,089 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:33:08,729 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:33:09,087 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:33:11,825 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:33:12,177 - watchfiles.main - INFO - 2 changes detected
+2025-05-29 16:33:12,389 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-29 16:33:12,980 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:33:14,251 - watchfiles.main - INFO - 5 changes detected
+2025-05-29 16:33:14,448 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 16:33:14,457 - app.main - INFO - 数据库初始化完成
+2025-05-29 16:33:14,463 - app.main - INFO - 数据表创建完成
+2025-05-29 16:33:14,463 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 16:33:14,612 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:33:14,976 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:33:28,151 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:33:28,317 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-29 16:33:28,937 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:33:29,858 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:33:30,210 - watchfiles.main - INFO - 6 changes detected
+2025-05-29 16:33:30,375 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 16:33:30,387 - app.main - INFO - 数据库初始化完成
+2025-05-29 16:33:30,392 - app.main - INFO - 数据表创建完成
+2025-05-29 16:33:30,393 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 16:33:30,569 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:33:30,931 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:33:32,801 - watchfiles.main - INFO - 1 change detected
+2025-05-29 16:38:51,766 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 16:38:51,774 - app.main - INFO - 数据库初始化完成
+2025-05-29 16:38:51,779 - app.main - INFO - 数据表创建完成
+2025-05-29 16:38:51,780 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 16:52:45,531 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 16:52:45,540 - app.main - INFO - 数据库初始化完成
+2025-05-29 16:52:45,546 - app.main - INFO - 数据表创建完成
+2025-05-29 16:52:45,546 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 16:53:13,503 - app.api.endpoints.projects - ERROR - 删除项目失败: (sqlite3.OperationalError) no such column: projects.is_preset
+[SQL: SELECT projects.name AS projects_name, projects.title AS projects_title, projects.subtitle AS projects_subtitle, projects.author AS projects_author, projects.project_type AS projects_project_type, projects.status AS projects_status, projects.summary AS projects_summary, projects.description AS projects_description, projects.outline AS projects_outline, projects.word_count AS projects_word_count, projects.chapter_count AS projects_chapter_count, projects.character_count AS projects_character_count, projects.settings AS projects_settings, projects.project_metadata AS projects_project_metadata, projects.template_id AS projects_template_id, projects.template_name AS projects_template_name, projects.is_preset AS projects_is_preset, projects.id AS projects_id, projects.created_at AS projects_created_at, projects.updated_at AS projects_updated_at, projects.is_deleted AS projects_is_deleted, projects.tags AS projects_tags, projects.version AS projects_version, projects.version_note AS projects_version_note, projects.parent_version_id AS projects_parent_version_id 
+FROM projects 
+WHERE projects.id = ? AND projects.is_deleted = 0
+ LIMIT ? OFFSET ?]
+[parameters: (1, 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-05-29 16:53:13,504 - app.main - ERROR - HTTP异常: 500 - 删除项目失败
+2025-05-29 16:53:16,188 - app.api.endpoints.projects - ERROR - 删除项目失败: (sqlite3.OperationalError) no such column: projects.is_preset
+[SQL: SELECT projects.name AS projects_name, projects.title AS projects_title, projects.subtitle AS projects_subtitle, projects.author AS projects_author, projects.project_type AS projects_project_type, projects.status AS projects_status, projects.summary AS projects_summary, projects.description AS projects_description, projects.outline AS projects_outline, projects.word_count AS projects_word_count, projects.chapter_count AS projects_chapter_count, projects.character_count AS projects_character_count, projects.settings AS projects_settings, projects.project_metadata AS projects_project_metadata, projects.template_id AS projects_template_id, projects.template_name AS projects_template_name, projects.is_preset AS projects_is_preset, projects.id AS projects_id, projects.created_at AS projects_created_at, projects.updated_at AS projects_updated_at, projects.is_deleted AS projects_is_deleted, projects.tags AS projects_tags, projects.version AS projects_version, projects.version_note AS projects_version_note, projects.parent_version_id AS projects_parent_version_id 
+FROM projects 
+WHERE projects.id = ? AND projects.is_deleted = 0
+ LIMIT ? OFFSET ?]
+[parameters: (2, 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-05-29 16:53:16,189 - app.main - ERROR - HTTP异常: 500 - 删除项目失败
+2025-05-29 17:28:06,099 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 17:28:06,108 - app.main - INFO - 数据库初始化完成
+2025-05-29 17:28:06,114 - app.main - INFO - 数据表创建完成
+2025-05-29 17:28:06,114 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 17:44:58,982 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 17:44:58,991 - app.main - INFO - 数据库初始化完成
+2025-05-29 17:44:58,996 - app.main - INFO - 数据表创建完成
+2025-05-29 17:44:58,996 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 17:52:35,899 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 17:52:35,907 - app.main - INFO - 数据库初始化完成
+2025-05-29 17:52:35,913 - app.main - INFO - 数据表创建完成
+2025-05-29 17:52:35,913 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 19:19:40,055 - watchfiles.main - INFO - 2 changes detected
+2025-05-29 19:19:40,197 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-29 19:19:40,828 - watchfiles.main - INFO - 1 change detected
+2025-05-29 19:19:42,251 - watchfiles.main - INFO - 1 change detected
+2025-05-29 19:19:42,307 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 19:19:42,316 - app.main - INFO - 数据库初始化完成
+2025-05-29 19:19:42,322 - app.main - INFO - 数据表创建完成
+2025-05-29 19:19:42,322 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 19:19:42,607 - watchfiles.main - INFO - 1 change detected
+2025-05-29 19:20:22,889 - watchfiles.main - INFO - 2 changes detected
+2025-05-29 19:20:23,083 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-29 19:20:23,703 - watchfiles.main - INFO - 1 change detected
+2025-05-29 19:20:24,723 - watchfiles.main - INFO - 1 change detected
+2025-05-29 19:20:25,082 - watchfiles.main - INFO - 1 change detected
+2025-05-29 19:20:25,160 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 19:20:25,170 - app.main - INFO - 数据库初始化完成
+2025-05-29 19:20:25,175 - app.main - INFO - 数据表创建完成
+2025-05-29 19:20:25,175 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 19:20:25,440 - watchfiles.main - INFO - 1 change detected
+2025-05-29 19:20:27,721 - watchfiles.main - INFO - 1 change detected
+2025-05-29 19:20:28,078 - watchfiles.main - INFO - 1 change detected
+2025-05-29 19:20:30,718 - watchfiles.main - INFO - 1 change detected
+2025-05-29 19:20:31,076 - watchfiles.main - INFO - 1 change detected
+2025-05-29 19:20:31,945 - watchfiles.main - INFO - 1 change detected
+2025-05-29 19:20:32,080 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-29 19:20:32,704 - watchfiles.main - INFO - 1 change detected
+2025-05-29 19:20:33,368 - watchfiles.main - INFO - 5 changes detected
+2025-05-29 19:20:33,723 - watchfiles.main - INFO - 1 change detected
+2025-05-29 19:20:34,083 - watchfiles.main - INFO - 9 changes detected
+2025-05-29 19:20:34,177 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 19:20:34,186 - app.main - INFO - 数据库初始化完成
+2025-05-29 19:20:34,191 - app.main - INFO - 数据表创建完成
+2025-05-29 19:20:34,191 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 19:20:34,448 - watchfiles.main - INFO - 1 change detected
+2025-05-29 19:20:36,784 - watchfiles.main - INFO - 1 change detected
+2025-05-29 19:20:42,422 - watchfiles.main - INFO - 1 change detected
+2025-05-29 19:20:42,664 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-29 19:20:43,302 - watchfiles.main - INFO - 1 change detected
+2025-05-29 19:20:43,967 - watchfiles.main - INFO - 5 changes detected
+2025-05-29 19:20:44,779 - watchfiles.main - INFO - 1 change detected
+2025-05-29 19:20:44,836 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 19:20:44,845 - app.main - INFO - 数据库初始化完成
+2025-05-29 19:20:44,850 - app.main - INFO - 数据表创建完成
+2025-05-29 19:20:44,850 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 19:20:45,141 - watchfiles.main - INFO - 1 change detected
+2025-05-29 19:20:45,705 - watchfiles.main - INFO - 1 change detected
+2025-05-29 19:20:46,067 - watchfiles.main - INFO - 1 change detected
+2025-05-29 19:20:48,857 - watchfiles.main - INFO - 1 change detected
+2025-05-29 19:20:49,209 - watchfiles.main - INFO - 1 change detected
+2025-05-29 19:20:51,692 - watchfiles.main - INFO - 1 change detected
+2025-05-29 19:20:52,055 - watchfiles.main - INFO - 1 change detected
+2025-05-29 19:20:54,995 - watchfiles.main - INFO - 1 change detected
+2025-05-29 19:20:55,357 - watchfiles.main - INFO - 1 change detected
+2025-05-29 19:20:57,786 - watchfiles.main - INFO - 1 change detected
+2025-05-29 19:20:58,151 - watchfiles.main - INFO - 1 change detected
+2025-05-29 19:21:00,790 - watchfiles.main - INFO - 1 change detected
+2025-05-29 19:21:29,385 - watchfiles.main - INFO - 1 change detected
+2025-05-29 19:21:29,524 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-29 19:21:30,164 - watchfiles.main - INFO - 1 change detected
+2025-05-29 19:21:30,878 - watchfiles.main - INFO - 1 change detected
+2025-05-29 19:21:31,229 - watchfiles.main - INFO - 5 changes detected
+2025-05-29 19:21:31,640 - watchfiles.main - INFO - 1 change detected
+2025-05-29 19:21:31,722 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 19:21:31,730 - app.main - INFO - 数据库初始化完成
+2025-05-29 19:21:31,736 - app.main - INFO - 数据表创建完成
+2025-05-29 19:21:31,736 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 19:21:31,997 - watchfiles.main - INFO - 1 change detected
+2025-05-29 19:21:33,873 - watchfiles.main - INFO - 1 change detected
+2025-05-29 19:21:34,229 - watchfiles.main - INFO - 1 change detected
+2025-05-29 19:21:36,966 - watchfiles.main - INFO - 1 change detected
+2025-05-29 19:21:37,331 - watchfiles.main - INFO - 1 change detected
+2025-05-29 19:21:39,967 - watchfiles.main - INFO - 1 change detected
+2025-05-29 19:22:53,455 - watchfiles.main - INFO - 1 change detected
+2025-05-29 19:22:53,645 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-29 19:22:54,275 - watchfiles.main - INFO - 1 change detected
+2025-05-29 19:22:54,988 - watchfiles.main - INFO - 5 changes detected
+2025-05-29 19:22:55,345 - watchfiles.main - INFO - 1 change detected
+2025-05-29 19:22:55,703 - watchfiles.main - INFO - 1 change detected
+2025-05-29 19:22:55,927 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 19:22:55,937 - app.main - INFO - 数据库初始化完成
+2025-05-29 19:22:55,943 - app.main - INFO - 数据表创建完成
+2025-05-29 19:22:55,943 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 19:22:56,063 - watchfiles.main - INFO - 1 change detected
+2025-05-29 19:22:58,041 - watchfiles.main - INFO - 1 change detected
+2025-05-29 19:23:06,504 - watchfiles.main - INFO - 1 change detected
+2025-05-29 19:23:06,710 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-29 19:23:07,348 - watchfiles.main - INFO - 1 change detected
+2025-05-29 19:23:08,011 - watchfiles.main - INFO - 5 changes detected
+2025-05-29 19:23:08,831 - watchfiles.main - INFO - 1 change detected
+2025-05-29 19:23:08,920 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 19:23:08,929 - app.main - INFO - 数据库初始化完成
+2025-05-29 19:23:08,935 - app.main - INFO - 数据表创建完成
+2025-05-29 19:23:08,935 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-29 19:23:09,190 - watchfiles.main - INFO - 1 change detected
+2025-05-29 19:23:10,154 - watchfiles.main - INFO - 1 change detected
+2025-05-29 19:23:10,517 - watchfiles.main - INFO - 1 change detected
+2025-05-29 19:23:13,103 - watchfiles.main - INFO - 1 change detected
+2025-05-29 19:50:59,118 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-29 19:50:59,129 - app.main - INFO - 数据库初始化完成
+2025-05-29 19:50:59,135 - app.main - INFO - 数据表创建完成
+2025-05-29 19:50:59,135 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-30 11:37:50,391 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-30 11:37:50,399 - app.main - INFO - 数据库初始化完成
+2025-05-30 11:37:50,404 - app.main - INFO - 数据表创建完成
+2025-05-30 11:37:50,404 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-30 13:58:30,796 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-30 13:58:30,806 - app.main - INFO - 数据库初始化完成
+2025-05-30 13:58:30,812 - app.main - INFO - 数据表创建完成
+2025-05-30 13:58:30,812 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-30 14:02:02,315 - app.api.endpoints.projects - ERROR - 获取项目列表失败: (sqlite3.OperationalError) no such column: projects.is_preset
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT projects.name AS projects_name, projects.title AS projects_title, projects.subtitle AS projects_subtitle, projects.author AS projects_author, projects.project_type AS projects_project_type, projects.status AS projects_status, projects.summary AS projects_summary, projects.description AS projects_description, projects.outline AS projects_outline, projects.word_count AS projects_word_count, projects.chapter_count AS projects_chapter_count, projects.character_count AS projects_character_count, projects.settings AS projects_settings, projects.project_metadata AS projects_project_metadata, projects.template_id AS projects_template_id, projects.template_name AS projects_template_name, projects.is_preset AS projects_is_preset, projects.id AS projects_id, projects.created_at AS projects_created_at, projects.updated_at AS projects_updated_at, projects.is_deleted AS projects_is_deleted, projects.tags AS projects_tags, projects.version AS projects_version, projects.version_note AS projects_version_note, projects.parent_version_id AS projects_parent_version_id 
+FROM projects 
+WHERE projects.is_deleted = 0) AS anon_1]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-05-30 14:02:02,317 - app.main - ERROR - HTTP异常: 500 - 获取项目列表失败
+2025-05-30 14:05:17,751 - app.api.endpoints.projects - ERROR - 获取项目列表失败: (sqlite3.OperationalError) no such column: projects.is_preset
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT projects.name AS projects_name, projects.title AS projects_title, projects.subtitle AS projects_subtitle, projects.author AS projects_author, projects.project_type AS projects_project_type, projects.status AS projects_status, projects.summary AS projects_summary, projects.description AS projects_description, projects.outline AS projects_outline, projects.word_count AS projects_word_count, projects.chapter_count AS projects_chapter_count, projects.character_count AS projects_character_count, projects.settings AS projects_settings, projects.project_metadata AS projects_project_metadata, projects.template_id AS projects_template_id, projects.template_name AS projects_template_name, projects.is_preset AS projects_is_preset, projects.id AS projects_id, projects.created_at AS projects_created_at, projects.updated_at AS projects_updated_at, projects.is_deleted AS projects_is_deleted, projects.tags AS projects_tags, projects.version AS projects_version, projects.version_note AS projects_version_note, projects.parent_version_id AS projects_parent_version_id 
+FROM projects 
+WHERE projects.is_deleted = 0) AS anon_1]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-05-30 14:05:17,754 - app.main - ERROR - HTTP异常: 500 - 获取项目列表失败
+2025-05-30 14:05:19,774 - app.api.endpoints.projects - ERROR - 创建项目失败: (sqlite3.OperationalError) no such column: projects.is_preset
+[SQL: SELECT projects.name AS projects_name, projects.title AS projects_title, projects.subtitle AS projects_subtitle, projects.author AS projects_author, projects.project_type AS projects_project_type, projects.status AS projects_status, projects.summary AS projects_summary, projects.description AS projects_description, projects.outline AS projects_outline, projects.word_count AS projects_word_count, projects.chapter_count AS projects_chapter_count, projects.character_count AS projects_character_count, projects.settings AS projects_settings, projects.project_metadata AS projects_project_metadata, projects.template_id AS projects_template_id, projects.template_name AS projects_template_name, projects.is_preset AS projects_is_preset, projects.id AS projects_id, projects.created_at AS projects_created_at, projects.updated_at AS projects_updated_at, projects.is_deleted AS projects_is_deleted, projects.tags AS projects_tags, projects.version AS projects_version, projects.version_note AS projects_version_note, projects.parent_version_id AS projects_parent_version_id 
+FROM projects 
+WHERE projects.name = ? AND projects.is_deleted = 0
+ LIMIT ? OFFSET ?]
+[parameters: ('千面劫·宿命轮回', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-05-30 14:05:19,775 - app.main - ERROR - HTTP异常: 500 - 创建项目失败
+2025-05-30 14:05:37,950 - app.api.endpoints.projects - ERROR - 获取项目列表失败: (sqlite3.OperationalError) no such column: projects.is_preset
+[SQL: SELECT count(*) AS count_1 
+FROM (SELECT projects.name AS projects_name, projects.title AS projects_title, projects.subtitle AS projects_subtitle, projects.author AS projects_author, projects.project_type AS projects_project_type, projects.status AS projects_status, projects.summary AS projects_summary, projects.description AS projects_description, projects.outline AS projects_outline, projects.word_count AS projects_word_count, projects.chapter_count AS projects_chapter_count, projects.character_count AS projects_character_count, projects.settings AS projects_settings, projects.project_metadata AS projects_project_metadata, projects.template_id AS projects_template_id, projects.template_name AS projects_template_name, projects.is_preset AS projects_is_preset, projects.id AS projects_id, projects.created_at AS projects_created_at, projects.updated_at AS projects_updated_at, projects.is_deleted AS projects_is_deleted, projects.tags AS projects_tags, projects.version AS projects_version, projects.version_note AS projects_version_note, projects.parent_version_id AS projects_parent_version_id 
+FROM projects 
+WHERE projects.is_deleted = 0) AS anon_1]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-05-30 14:05:37,952 - app.main - ERROR - HTTP异常: 500 - 获取项目列表失败
+2025-05-30 14:05:39,994 - app.api.endpoints.projects - ERROR - 创建项目失败: (sqlite3.OperationalError) no such column: projects.is_preset
+[SQL: SELECT projects.name AS projects_name, projects.title AS projects_title, projects.subtitle AS projects_subtitle, projects.author AS projects_author, projects.project_type AS projects_project_type, projects.status AS projects_status, projects.summary AS projects_summary, projects.description AS projects_description, projects.outline AS projects_outline, projects.word_count AS projects_word_count, projects.chapter_count AS projects_chapter_count, projects.character_count AS projects_character_count, projects.settings AS projects_settings, projects.project_metadata AS projects_project_metadata, projects.template_id AS projects_template_id, projects.template_name AS projects_template_name, projects.is_preset AS projects_is_preset, projects.id AS projects_id, projects.created_at AS projects_created_at, projects.updated_at AS projects_updated_at, projects.is_deleted AS projects_is_deleted, projects.tags AS projects_tags, projects.version AS projects_version, projects.version_note AS projects_version_note, projects.parent_version_id AS projects_parent_version_id 
+FROM projects 
+WHERE projects.name = ? AND projects.is_deleted = 0
+ LIMIT ? OFFSET ?]
+[parameters: ('千面劫·宿命轮回', 1, 0)]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2025-05-30 14:05:39,996 - app.main - ERROR - HTTP异常: 500 - 创建项目失败
+2025-05-30 14:08:38,375 - watchfiles.main - INFO - 1 change detected
+2025-05-30 14:08:38,594 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-30 14:08:39,261 - watchfiles.main - INFO - 1 change detected
+2025-05-30 14:08:40,736 - watchfiles.main - INFO - 1 change detected
+2025-05-30 14:08:40,825 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-30 14:08:40,835 - app.main - INFO - 数据库初始化完成
+2025-05-30 14:08:40,840 - app.main - INFO - 数据表创建完成
+2025-05-30 14:08:40,841 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-30 14:08:41,102 - watchfiles.main - INFO - 1 change detected
+2025-05-30 14:09:50,945 - watchfiles.main - INFO - 3 changes detected
+2025-05-30 14:11:33,957 - watchfiles.main - INFO - 3 changes detected
+2025-05-30 14:12:48,331 - watchfiles.main - INFO - 3 changes detected
+2025-05-30 14:13:15,093 - watchfiles.main - INFO - 3 changes detected
+2025-05-30 14:13:38,545 - watchfiles.main - INFO - 3 changes detected
+2025-05-30 14:14:07,149 - watchfiles.main - INFO - 3 changes detected
+2025-05-30 14:14:32,157 - watchfiles.main - INFO - 3 changes detected
+2025-05-30 14:14:56,751 - watchfiles.main - INFO - 3 changes detected
+2025-05-30 14:15:23,504 - watchfiles.main - INFO - 3 changes detected
+2025-05-30 14:17:34,508 - watchfiles.main - INFO - 3 changes detected
+2025-05-30 14:17:57,449 - watchfiles.main - INFO - 3 changes detected
+2025-05-30 14:22:29,352 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-30 14:22:29,362 - app.main - INFO - 数据库初始化完成
+2025-05-30 14:22:29,367 - app.main - INFO - 数据表创建完成
+2025-05-30 14:22:29,367 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-30 14:23:30,850 - app.main - ERROR - HTTP异常: 404 - 项目不存在
+2025-05-30 14:23:33,326 - app.main - ERROR - HTTP异常: 404 - 项目不存在
+2025-05-30 14:23:36,033 - app.main - ERROR - HTTP异常: 404 - 项目不存在
+2025-05-30 14:25:54,996 - watchfiles.main - INFO - 1 change detected
+2025-05-30 14:25:55,024 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-30 14:25:55,034 - app.main - INFO - 数据库初始化完成
+2025-05-30 14:25:55,041 - app.main - INFO - 数据表创建完成
+2025-05-30 14:25:55,041 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-30 14:25:55,354 - watchfiles.main - INFO - 1 change detected
+2025-05-30 14:25:55,715 - watchfiles.main - INFO - 1 change detected
+2025-05-30 14:25:56,173 - watchfiles.main - INFO - 1 change detected
+2025-05-30 14:29:12,312 - app.main - ERROR - HTTP异常: 400 - 2 validation errors for ProjectResponse
+tags
+  Input should be a valid list [type=list_type, input_value='["宿命轮回", "仙妖...醒", "面具觉醒"]', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.5/v/list_type
+progress
+  Field required [type=missing, input_value=<Project(id=1)>, input_type=Project]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+2025-05-30 14:29:31,841 - app.api.endpoints.projects - ERROR - 获取项目列表失败: 3 validation errors for ProjectResponse
+tags
+  Input should be a valid list [type=list_type, input_value='["宿命轮回", "仙妖...醒", "面具觉醒"]', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.5/v/list_type
+metadata
+  Input should be a valid dictionary [type=dict_type, input_value=MetaData(), input_type=MetaData]
+    For further information visit https://errors.pydantic.dev/2.5/v/dict_type
+progress
+  Field required [type=missing, input_value=<Project(id=1)>, input_type=Project]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+2025-05-30 14:29:31,842 - app.main - ERROR - HTTP异常: 500 - 获取项目列表失败
+2025-05-30 14:29:33,874 - app.main - ERROR - HTTP异常: 400 - 项目名称 '千面劫·宿命轮回' 已存在
+2025-05-30 14:30:51,034 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-30 14:30:53,299 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-30 14:30:53,308 - app.main - INFO - 数据库初始化完成
+2025-05-30 14:30:53,314 - app.main - INFO - 数据表创建完成
+2025-05-30 14:30:53,314 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-30 14:31:13,752 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-30 14:31:16,081 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-30 14:31:16,090 - app.main - INFO - 数据库初始化完成
+2025-05-30 14:31:16,096 - app.main - INFO - 数据表创建完成
+2025-05-30 14:31:16,096 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-30 14:36:49,011 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-30 14:36:49,019 - app.main - INFO - 数据库初始化完成
+2025-05-30 14:36:49,026 - app.main - INFO - 数据表创建完成
+2025-05-30 14:36:49,026 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-30 14:37:26,139 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-30 14:37:26,148 - app.main - INFO - 数据库初始化完成
+2025-05-30 14:37:26,153 - app.main - INFO - 数据表创建完成
+2025-05-30 14:37:26,153 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-30 14:45:18,676 - watchfiles.main - INFO - 1 change detected
+2025-05-30 14:45:18,838 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-30 14:45:19,473 - watchfiles.main - INFO - 1 change detected
+2025-05-30 14:45:20,241 - watchfiles.main - INFO - 5 changes detected
+2025-05-30 14:45:20,602 - watchfiles.main - INFO - 1 change detected
+2025-05-30 14:45:20,962 - watchfiles.main - INFO - 1 change detected
+2025-05-30 14:45:21,036 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-30 14:45:21,044 - app.main - INFO - 数据库初始化完成
+2025-05-30 14:45:21,050 - app.main - INFO - 数据表创建完成
+2025-05-30 14:45:21,050 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-30 14:45:21,321 - watchfiles.main - INFO - 1 change detected
+2025-05-30 14:45:23,249 - watchfiles.main - INFO - 1 change detected
+2025-05-30 14:45:23,607 - watchfiles.main - INFO - 1 change detected
+2025-05-30 14:45:26,398 - watchfiles.main - INFO - 1 change detected
+2025-05-30 14:45:26,755 - watchfiles.main - INFO - 1 change detected
+2025-05-30 14:45:29,349 - watchfiles.main - INFO - 1 change detected
+2025-05-30 14:54:48,486 - watchfiles.main - INFO - 1 change detected
+2025-05-30 14:54:48,849 - watchfiles.main - INFO - 1 change detected
+2025-05-30 14:54:50,257 - watchfiles.main - INFO - 1 change detected
+2025-05-30 14:54:50,283 - watchfiles.main - INFO - 1 change detected
+2025-05-30 14:54:50,346 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-30 14:54:50,355 - app.main - INFO - 数据库初始化完成
+2025-05-30 14:54:50,363 - app.main - INFO - 数据表创建完成
+2025-05-30 14:54:50,363 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-30 14:54:50,624 - watchfiles.main - INFO - 1 change detected
+2025-05-30 14:54:50,639 - watchfiles.main - INFO - 1 change detected
+2025-05-30 14:54:52,555 - watchfiles.main - INFO - 1 change detected
+2025-05-30 14:54:52,571 - watchfiles.main - INFO - 1 change detected
+2025-05-30 14:54:52,908 - watchfiles.main - INFO - 1 change detected
+2025-05-30 14:54:52,923 - watchfiles.main - INFO - 1 change detected
+2025-05-30 14:54:55,451 - watchfiles.main - INFO - 1 change detected
+2025-05-30 14:54:55,469 - watchfiles.main - INFO - 1 change detected
+2025-05-30 14:54:55,804 - watchfiles.main - INFO - 1 change detected
+2025-05-30 14:54:55,821 - watchfiles.main - INFO - 1 change detected
+2025-05-30 14:54:58,909 - watchfiles.main - INFO - 1 change detected
+2025-05-30 14:54:58,924 - watchfiles.main - INFO - 1 change detected
+2025-05-30 14:54:59,270 - watchfiles.main - INFO - 1 change detected
+2025-05-30 14:54:59,285 - watchfiles.main - INFO - 1 change detected
+2025-05-30 14:55:01,376 - watchfiles.main - INFO - 1 change detected
+2025-05-30 14:55:01,408 - watchfiles.main - INFO - 1 change detected
+2025-05-30 14:55:01,737 - watchfiles.main - INFO - 1 change detected
+2025-05-30 14:55:01,771 - watchfiles.main - INFO - 1 change detected
+2025-05-30 14:55:04,438 - watchfiles.main - INFO - 1 change detected
+2025-05-30 14:55:04,470 - watchfiles.main - INFO - 1 change detected
+2025-05-30 14:55:04,792 - watchfiles.main - INFO - 1 change detected
+2025-05-30 14:55:04,824 - watchfiles.main - INFO - 1 change detected
+2025-05-30 14:55:07,471 - watchfiles.main - INFO - 1 change detected
+2025-05-30 14:55:07,491 - watchfiles.main - INFO - 1 change detected
+2025-05-30 14:55:07,833 - watchfiles.main - INFO - 1 change detected
+2025-05-30 14:55:07,849 - watchfiles.main - INFO - 1 change detected
+2025-05-30 14:55:10,475 - watchfiles.main - INFO - 1 change detected
+2025-05-30 14:55:10,493 - watchfiles.main - INFO - 1 change detected
+2025-05-30 14:55:58,737 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-30 14:56:00,638 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-30 14:56:02,539 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-30 14:56:04,222 - app.api.endpoints.ai_assistant - INFO - 开始获取Ollama模型列表...
+2025-05-30 14:56:04,222 - app.api.endpoints.ai_assistant - INFO - 使用Ollama配置: base_url=http://localhost:11434, model=mollysama/rwkv-7-g1:0.4B
+2025-05-30 14:56:05,797 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-30 14:56:05,798 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-30 14:56:05,801 - app.services.ai_service - INFO - Ollama API响应状态码: 502
+2025-05-30 14:56:05,801 - app.services.ai_service - INFO - Ollama API响应头: {'connection': 'close', 'content-length': '0'}
+2025-05-30 14:56:05,801 - app.services.ai_service - ERROR - Ollama服务返回502错误，可能服务未正确启动
+2025-05-30 14:56:05,801 - app.api.endpoints.ai_assistant - INFO - 获取到 0 个模型
+2025-05-30 14:56:05,801 - app.api.endpoints.ai_assistant - WARNING - 未检测到Ollama模型
+2025-05-30 14:56:05,801 - app.api.endpoints.ai_assistant - INFO - 尝试使用命令行方式获取Ollama模型...
+2025-05-30 14:56:05,891 - app.api.endpoints.ai_assistant - INFO - 解析模型: mollysama/rwkv-7-g1:0.4B (501 MB)
+2025-05-30 14:56:05,892 - app.api.endpoints.ai_assistant - INFO - 解析模型: qwen2.5:14b (9.0 GB)
+2025-05-30 14:56:05,892 - app.api.endpoints.ai_assistant - INFO - 解析模型: phi4:latest (9.1 GB)
+2025-05-30 14:56:05,892 - app.api.endpoints.ai_assistant - INFO - 解析模型: qwen:7b (4.5 GB)
+2025-05-30 14:56:05,892 - app.api.endpoints.ai_assistant - INFO - 解析模型: deepseek-r1:8b (4.9 GB)
+2025-05-30 14:56:05,892 - app.api.endpoints.ai_assistant - INFO - 通过命令行获取到 5 个模型
+2025-05-30 14:56:07,503 - app.api.endpoints.ai_assistant - INFO - 开始获取Ollama模型列表...
+2025-05-30 14:56:07,503 - app.api.endpoints.ai_assistant - INFO - 使用Ollama配置: base_url=http://localhost:11434, model=mollysama/rwkv-7-g1:0.4B
+2025-05-30 14:56:09,057 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-30 14:56:09,077 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-30 14:56:09,078 - app.services.ai_service - INFO - Ollama API响应状态码: 502
+2025-05-30 14:56:09,079 - app.services.ai_service - INFO - Ollama API响应头: {'connection': 'close', 'content-length': '0'}
+2025-05-30 14:56:09,080 - app.services.ai_service - ERROR - Ollama服务返回502错误，可能服务未正确启动
+2025-05-30 14:56:09,080 - app.api.endpoints.ai_assistant - INFO - 获取到 0 个模型
+2025-05-30 14:56:09,081 - app.api.endpoints.ai_assistant - WARNING - 未检测到Ollama模型
+2025-05-30 14:56:09,081 - app.api.endpoints.ai_assistant - INFO - 尝试使用命令行方式获取Ollama模型...
+2025-05-30 14:56:09,160 - app.api.endpoints.ai_assistant - INFO - 解析模型: mollysama/rwkv-7-g1:0.4B (501 MB)
+2025-05-30 14:56:09,160 - app.api.endpoints.ai_assistant - INFO - 解析模型: qwen2.5:14b (9.0 GB)
+2025-05-30 14:56:09,160 - app.api.endpoints.ai_assistant - INFO - 解析模型: phi4:latest (9.1 GB)
+2025-05-30 14:56:09,161 - app.api.endpoints.ai_assistant - INFO - 解析模型: qwen:7b (4.5 GB)
+2025-05-30 14:56:09,161 - app.api.endpoints.ai_assistant - INFO - 解析模型: deepseek-r1:8b (4.9 GB)
+2025-05-30 14:56:09,161 - app.api.endpoints.ai_assistant - INFO - 通过命令行获取到 5 个模型
+2025-05-30 14:56:22,148 - watchfiles.main - INFO - 1 change detected
+2025-05-30 14:56:22,504 - watchfiles.main - INFO - 1 change detected
+2025-05-30 14:56:22,860 - watchfiles.main - INFO - 1 change detected
+2025-05-30 14:56:25,654 - watchfiles.main - INFO - 1 change detected
+2025-05-30 14:56:26,014 - watchfiles.main - INFO - 1 change detected
+2025-05-30 14:56:28,663 - watchfiles.main - INFO - 1 change detected
+2025-05-30 14:57:06,215 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-30 14:57:06,224 - app.main - INFO - 数据库初始化完成
+2025-05-30 14:57:06,229 - app.main - INFO - 数据表创建完成
+2025-05-30 14:57:06,229 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-30 14:57:15,843 - app.api.endpoints.projects - ERROR - 获取项目列表失败: 3 validation errors for ProjectResponse
+tags
+  Input should be a valid list [type=list_type, input_value='["宿命轮回", "仙妖...醒", "面具觉醒"]', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.5/v/list_type
+metadata
+  Input should be a valid dictionary [type=dict_type, input_value=MetaData(), input_type=MetaData]
+    For further information visit https://errors.pydantic.dev/2.5/v/dict_type
+progress
+  Field required [type=missing, input_value=<Project(id=1)>, input_type=Project]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+2025-05-30 14:57:15,844 - app.main - ERROR - HTTP异常: 500 - 获取项目列表失败
+2025-05-30 14:57:15,849 - app.api.endpoints.projects - ERROR - 获取项目列表失败: 3 validation errors for ProjectResponse
+tags
+  Input should be a valid list [type=list_type, input_value='["宿命轮回", "仙妖...醒", "面具觉醒"]', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.5/v/list_type
+metadata
+  Input should be a valid dictionary [type=dict_type, input_value=MetaData(), input_type=MetaData]
+    For further information visit https://errors.pydantic.dev/2.5/v/dict_type
+progress
+  Field required [type=missing, input_value=<Project(id=1)>, input_type=Project]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+2025-05-30 14:57:15,850 - app.main - ERROR - HTTP异常: 500 - 获取项目列表失败
+2025-05-30 14:57:18,983 - app.api.endpoints.projects - ERROR - 获取项目列表失败: 3 validation errors for ProjectResponse
+tags
+  Input should be a valid list [type=list_type, input_value='["宿命轮回", "仙妖...醒", "面具觉醒"]', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.5/v/list_type
+metadata
+  Input should be a valid dictionary [type=dict_type, input_value=MetaData(), input_type=MetaData]
+    For further information visit https://errors.pydantic.dev/2.5/v/dict_type
+progress
+  Field required [type=missing, input_value=<Project(id=1)>, input_type=Project]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+2025-05-30 14:57:18,984 - app.main - ERROR - HTTP异常: 500 - 获取项目列表失败
+2025-05-30 14:57:18,988 - app.api.endpoints.projects - ERROR - 获取项目列表失败: 3 validation errors for ProjectResponse
+tags
+  Input should be a valid list [type=list_type, input_value='["宿命轮回", "仙妖...醒", "面具觉醒"]', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.5/v/list_type
+metadata
+  Input should be a valid dictionary [type=dict_type, input_value=MetaData(), input_type=MetaData]
+    For further information visit https://errors.pydantic.dev/2.5/v/dict_type
+progress
+  Field required [type=missing, input_value=<Project(id=1)>, input_type=Project]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+2025-05-30 14:57:18,989 - app.main - ERROR - HTTP异常: 500 - 获取项目列表失败
+2025-05-30 15:02:53,944 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-30 15:02:53,954 - app.main - INFO - 数据库初始化完成
+2025-05-30 15:02:53,960 - app.main - INFO - 数据表创建完成
+2025-05-30 15:02:53,960 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-30 15:03:20,177 - app.api.endpoints.projects - ERROR - 获取项目列表失败: name 'ProjectListItem' is not defined
+2025-05-30 15:03:20,178 - app.main - ERROR - HTTP异常: 500 - 获取项目列表失败
+2025-05-30 15:03:37,951 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-30 15:03:40,173 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-30 15:03:40,183 - app.main - INFO - 数据库初始化完成
+2025-05-30 15:03:40,189 - app.main - INFO - 数据表创建完成
+2025-05-30 15:03:40,189 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-30 15:04:22,623 - app.api.endpoints.projects - ERROR - 获取项目列表失败: 2 validation errors for ProjectListItem
+progress
+  Field required [type=missing, input_value=<Project(id=1)>, input_type=Project]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+tags
+  Input should be a valid list [type=list_type, input_value='["宿命轮回", "仙妖...醒", "面具觉醒"]', input_type=str]
+    For further information visit https://errors.pydantic.dev/2.5/v/list_type
+2025-05-30 15:04:22,624 - app.main - ERROR - HTTP异常: 500 - 获取项目列表失败
+2025-05-30 15:04:49,681 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-30 15:04:51,977 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-30 15:04:51,986 - app.main - INFO - 数据库初始化完成
+2025-05-30 15:04:51,992 - app.main - INFO - 数据表创建完成
+2025-05-30 15:04:51,992 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-30 15:05:05,908 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-30 15:05:08,046 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-30 15:05:08,056 - app.main - INFO - 数据库初始化完成
+2025-05-30 15:05:08,061 - app.main - INFO - 数据表创建完成
+2025-05-30 15:05:08,061 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-30 15:15:03,933 - app.api.endpoints.projects - ERROR - 获取项目列表失败: 1 validation error for ProjectListItem
+progress
+  Field required [type=missing, input_value=<Project(id=1)>, input_type=Project]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+2025-05-30 15:15:03,934 - app.main - ERROR - HTTP异常: 500 - 获取项目列表失败
+2025-05-30 15:15:21,680 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-30 15:15:24,025 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-30 15:15:24,036 - app.main - INFO - 数据库初始化完成
+2025-05-30 15:15:24,042 - app.main - INFO - 数据表创建完成
+2025-05-30 15:15:24,042 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-30 15:16:03,828 - app.api.endpoints.projects - ERROR - 获取项目详情失败: 2 validation errors for ProjectResponse
+metadata
+  Input should be a valid dictionary [type=dict_type, input_value=MetaData(), input_type=MetaData]
+    For further information visit https://errors.pydantic.dev/2.5/v/dict_type
+progress
+  Field required [type=missing, input_value=<Project(id=1)>, input_type=Project]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+2025-05-30 15:16:03,829 - app.main - ERROR - HTTP异常: 500 - 获取项目详情失败
+2025-05-30 15:16:03,832 - app.api.endpoints.projects - ERROR - 获取项目详情失败: 2 validation errors for ProjectResponse
+metadata
+  Input should be a valid dictionary [type=dict_type, input_value=MetaData(), input_type=MetaData]
+    For further information visit https://errors.pydantic.dev/2.5/v/dict_type
+progress
+  Field required [type=missing, input_value=<Project(id=1)>, input_type=Project]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+2025-05-30 15:16:03,834 - app.main - ERROR - HTTP异常: 500 - 获取项目详情失败
+2025-05-30 15:16:08,636 - app.api.endpoints.projects - ERROR - 获取项目详情失败: 2 validation errors for ProjectResponse
+metadata
+  Input should be a valid dictionary [type=dict_type, input_value=MetaData(), input_type=MetaData]
+    For further information visit https://errors.pydantic.dev/2.5/v/dict_type
+progress
+  Field required [type=missing, input_value=<Project(id=1)>, input_type=Project]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+2025-05-30 15:16:08,638 - app.main - ERROR - HTTP异常: 500 - 获取项目详情失败
+2025-05-30 15:16:08,641 - app.api.endpoints.projects - ERROR - 获取项目详情失败: 2 validation errors for ProjectResponse
+metadata
+  Input should be a valid dictionary [type=dict_type, input_value=MetaData(), input_type=MetaData]
+    For further information visit https://errors.pydantic.dev/2.5/v/dict_type
+progress
+  Field required [type=missing, input_value=<Project(id=1)>, input_type=Project]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+2025-05-30 15:16:08,643 - app.main - ERROR - HTTP异常: 500 - 获取项目详情失败
+2025-05-30 15:16:54,858 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-30 15:16:57,131 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-30 15:16:57,141 - app.main - INFO - 数据库初始化完成
+2025-05-30 15:16:57,146 - app.main - INFO - 数据表创建完成
+2025-05-30 15:16:57,147 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-30 15:17:12,154 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-30 15:17:14,486 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-30 15:17:14,496 - app.main - INFO - 数据库初始化完成
+2025-05-30 15:17:14,503 - app.main - INFO - 数据表创建完成
+2025-05-30 15:17:14,504 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-30 15:17:14,663 - app.main - ERROR - HTTP异常: 400 - 2 validation errors for ProjectResponse
+metadata
+  Input should be a valid dictionary [type=dict_type, input_value=MetaData(), input_type=MetaData]
+    For further information visit https://errors.pydantic.dev/2.5/v/dict_type
+progress
+  Field required [type=missing, input_value=<Project(id=1)>, input_type=Project]
+    For further information visit https://errors.pydantic.dev/2.5/v/missing
+2025-05-30 15:17:26,703 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-30 15:17:28,937 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-30 15:17:28,947 - app.main - INFO - 数据库初始化完成
+2025-05-30 15:17:28,954 - app.main - INFO - 数据表创建完成
+2025-05-30 15:17:28,955 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-30 15:18:03,799 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-30 15:18:06,072 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-30 15:18:06,082 - app.main - INFO - 数据库初始化完成
+2025-05-30 15:18:06,088 - app.main - INFO - 数据表创建完成
+2025-05-30 15:18:06,088 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-30 15:18:16,777 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-30 15:18:19,406 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-30 15:18:19,417 - app.main - INFO - 数据库初始化完成
+2025-05-30 15:18:19,426 - app.main - INFO - 数据表创建完成
+2025-05-30 15:18:19,426 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-30 15:18:28,235 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-30 15:18:30,433 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-30 15:18:30,443 - app.main - INFO - 数据库初始化完成
+2025-05-30 15:18:30,448 - app.main - INFO - 数据表创建完成
+2025-05-30 15:18:30,448 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-30 15:18:38,611 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-30 15:18:40,713 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-30 15:18:40,723 - app.main - INFO - 数据库初始化完成
+2025-05-30 15:18:40,728 - app.main - INFO - 数据表创建完成
+2025-05-30 15:18:40,729 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-30 15:18:50,308 - app.main - INFO - 正在关闭 NovelCraft 后端服务...
+2025-05-30 15:18:52,533 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-30 15:18:52,543 - app.main - INFO - 数据库初始化完成
+2025-05-30 15:18:52,549 - app.main - INFO - 数据表创建完成
+2025-05-30 15:18:52,549 - app.main - INFO - NovelCraft 后端服务启动成功
+2025-05-30 15:32:35,488 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-30 15:32:37,460 - httpx - INFO - HTTP Request: GET http://localhost:11434/api/tags "HTTP/1.1 502 Bad Gateway"
+2025-05-31 16:36:23,564 - app.main - INFO - 正在启动 NovelCraft 后端服务...
+2025-05-31 16:36:23,575 - app.main - INFO - 数据库初始化完成
+2025-05-31 16:36:23,581 - app.main - INFO - 数据表创建完成
+2025-05-31 16:36:23,581 - app.main - INFO - NovelCraft 后端服务启动成功
