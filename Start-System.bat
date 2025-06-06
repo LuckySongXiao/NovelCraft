@@ -65,7 +65,7 @@ if not exist "frontend\package.json" (
 cd frontend
 if not exist "node_modules" (
     echo Installing frontend dependencies, please wait...
-    npm install
+    npm install  --legacy-peer-deps
     if errorlevel 1 (
         echo Frontend dependencies installation failed, please check network
         pause
