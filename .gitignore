@@ -38,3 +38,4 @@ backend/logs/
 
 # 迁移脚本生成的文件（Alembic）
 alembic/versions/
+backend/logs/app.log
